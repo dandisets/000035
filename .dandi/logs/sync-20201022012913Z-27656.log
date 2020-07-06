@@ -1,0 +1,928 @@
+2020-10-21T21:29:13-0400 [INFO    ] dandi Traversing remote dandisets (000035) recursively
+2020-10-21T21:29:13-0400 [INFO    ] backups2datalad.py Updating metadata file
+2020-10-21T21:29:21-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-10_slice-20200407-slice-1_cell-20200407-sample-10_icephys.nwb
+2020-10-21T21:29:22-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:22-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/94/3c/943cb7985dc04fd1a43e16c9892e5cdf -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-10_slice-20200407-slice-1_cell-20200407-sample-10_icephys.nwb
+2020-10-21T21:29:22-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:22-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/94/3c/943cb7985dc04fd1a43e16c9892e5cdf?versionId=FTfQz4fJhHjJffrgpys1f2O9_4WP.Lr_ to asset
+2020-10-21T21:29:23-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-11_slice-20200407-slice-4_cell-20200407-sample-11_icephys.nwb
+2020-10-21T21:29:23-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:23-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/8c/52/8c5284e210314ad58217d19fdf1659ef -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-11_slice-20200407-slice-4_cell-20200407-sample-11_icephys.nwb
+2020-10-21T21:29:23-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:23-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/8c/52/8c5284e210314ad58217d19fdf1659ef?versionId=fvsWx0GLoXY3u5J.NdyMZwomDubqq1IN to asset
+2020-10-21T21:29:23-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-12_slice-20200407-slice-4_cell-20200407-sample-12_icephys.nwb
+2020-10-21T21:29:24-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:24-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/6a/b6/6ab62154d62c40a5abdac8ff76067013 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-12_slice-20200407-slice-4_cell-20200407-sample-12_icephys.nwb
+2020-10-21T21:29:24-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:24-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/6a/b6/6ab62154d62c40a5abdac8ff76067013?versionId=KBg1C3ys7r3QoTlVt46kxGHQIoOOwC15 to asset
+2020-10-21T21:29:24-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-13_slice-20200407-slice-5_cell-20200407-sample-13_icephys.nwb
+2020-10-21T21:29:25-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:25-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/53/9b/539bf36a77384061bf74978014e62032 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-13_slice-20200407-slice-5_cell-20200407-sample-13_icephys.nwb
+2020-10-21T21:29:25-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:25-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/53/9b/539bf36a77384061bf74978014e62032?versionId=i0qpOMXuKu6dGAwxLViQcWYJQ.4qSVrW to asset
+2020-10-21T21:29:25-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-14_slice-20200407-slice-5_cell-20200407-sample-14_icephys.nwb
+2020-10-21T21:29:26-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:26-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/2f/26/2f26f05876044f2a913e6635f6922c99 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-14_slice-20200407-slice-5_cell-20200407-sample-14_icephys.nwb
+2020-10-21T21:29:26-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:26-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/2f/26/2f26f05876044f2a913e6635f6922c99?versionId=m0aayooOMAjcbQGpMQyg4MoOF366FIqN to asset
+2020-10-21T21:29:26-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-15_slice-20200407-slice-5_cell-20200407-sample-15_icephys.nwb
+2020-10-21T21:29:26-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:27-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/0d/47/0d47a5ecf0b24760bfd6efa5a1f49f89 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-15_slice-20200407-slice-5_cell-20200407-sample-15_icephys.nwb
+2020-10-21T21:29:27-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:27-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/0d/47/0d47a5ecf0b24760bfd6efa5a1f49f89?versionId=liQWAYQ27tnPmS6hJVehV5j0uyNl.J7F to asset
+2020-10-21T21:29:27-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-16_slice-20200407-slice-5_cell-20200407-sample-16_icephys.nwb
+2020-10-21T21:29:27-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:27-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/bf/29/bf294097ee424d5f85c24b0095e13487 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-16_slice-20200407-slice-5_cell-20200407-sample-16_icephys.nwb
+2020-10-21T21:29:27-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:28-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/bf/29/bf294097ee424d5f85c24b0095e13487?versionId=n_jCRN9ty.20ajvhDUDrIdmnJc78xTtt to asset
+2020-10-21T21:29:28-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-18_slice-20200407-slice-5_cell-20200407-sample-18_icephys.nwb
+2020-10-21T21:29:28-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:28-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/df/9d/df9d60dcb2864126b55da9bf18fb85ad -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-18_slice-20200407-slice-5_cell-20200407-sample-18_icephys.nwb
+2020-10-21T21:29:28-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:29-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/df/9d/df9d60dcb2864126b55da9bf18fb85ad?versionId=PngnD6GLZ34w8z_YAYv6BkQot1RMkq6j to asset
+2020-10-21T21:29:29-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-19_slice-20200407-slice-5_cell-20200407-sample-19_icephys.nwb
+2020-10-21T21:29:29-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:29-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/70/cb/70cbe7cc094b4d008f9008fd2db14249 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-19_slice-20200407-slice-5_cell-20200407-sample-19_icephys.nwb
+2020-10-21T21:29:29-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:30-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/70/cb/70cbe7cc094b4d008f9008fd2db14249?versionId=KjoDRr2Pa0CdUVmVEvR6XbykFPQi43Py to asset
+2020-10-21T21:29:30-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-1_slice-20200407-slice-1_cell-20200407-sample-1_icephys.nwb
+2020-10-21T21:29:30-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:30-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/4a/0d/4a0d85f6101b447f8fc5fd1363efb54f -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-1_slice-20200407-slice-1_cell-20200407-sample-1_icephys.nwb
+2020-10-21T21:29:30-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:30-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/4a/0d/4a0d85f6101b447f8fc5fd1363efb54f?versionId=HdROtE9DFO3Jt8oeM1C4neyCLwDRFKpR to asset
+2020-10-21T21:29:31-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-20_slice-20200407-slice-5_cell-20200407-sample-20_icephys.nwb
+2020-10-21T21:29:31-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:31-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/be/47/be4740497636410697ded398f5d02499 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-20_slice-20200407-slice-5_cell-20200407-sample-20_icephys.nwb
+2020-10-21T21:29:31-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:31-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/be/47/be4740497636410697ded398f5d02499?versionId=EQBjWTF34lp.qq6lbfFbVgkmcfh0MbQU to asset
+2020-10-21T21:29:32-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-21_slice-20200407-slice-5_cell-20200407-sample-21_icephys.nwb
+2020-10-21T21:29:32-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:32-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/21/ce/21ce57658e3f4bbfbcfbf6cbeb9d9e51 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-21_slice-20200407-slice-5_cell-20200407-sample-21_icephys.nwb
+2020-10-21T21:29:32-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:32-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/21/ce/21ce57658e3f4bbfbcfbf6cbeb9d9e51?versionId=.jVaKqz9fRpdVOtL1uz7njKsl7ZooV89 to asset
+2020-10-21T21:29:33-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-22_slice-20200407-slice-5_cell-20200407-sample-22_icephys.nwb
+2020-10-21T21:29:33-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:33-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/82/b9/82b968cfb6c246e89dcf9b00b586fb44 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-22_slice-20200407-slice-5_cell-20200407-sample-22_icephys.nwb
+2020-10-21T21:29:33-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:33-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/82/b9/82b968cfb6c246e89dcf9b00b586fb44?versionId=m3r5JTvyWyQboQ49eP1d31mO5B06puTt to asset
+2020-10-21T21:29:34-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-23_slice-20200407-slice-5_cell-20200407-sample-23_icephys.nwb
+2020-10-21T21:29:34-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:34-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/97/4e/974e1092527d4816b6dd11e477f5de5c -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-23_slice-20200407-slice-5_cell-20200407-sample-23_icephys.nwb
+2020-10-21T21:29:34-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:34-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/97/4e/974e1092527d4816b6dd11e477f5de5c?versionId=heN4Z.7L5CKcuHURIIWcR6yUsbHfPv8m to asset
+2020-10-21T21:29:34-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-24_slice-20200407-slice-5_cell-20200407-sample-24_icephys.nwb
+2020-10-21T21:29:35-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:35-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/e8/cf/e8cf7acadf224786aa4fa81ab032c268 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-24_slice-20200407-slice-5_cell-20200407-sample-24_icephys.nwb
+2020-10-21T21:29:35-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:35-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/e8/cf/e8cf7acadf224786aa4fa81ab032c268?versionId=a0jc7LeCubOI4ooaftB5NO8WR6zPm4DE to asset
+2020-10-21T21:29:35-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-25_slice-20200407-slice-5_cell-20200407-sample-25_icephys.nwb
+2020-10-21T21:29:36-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:36-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/e5/83/e58325c48175447cba6d57fa0426f13f -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-25_slice-20200407-slice-5_cell-20200407-sample-25_icephys.nwb
+2020-10-21T21:29:36-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:36-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/e5/83/e58325c48175447cba6d57fa0426f13f?versionId=UmGdbZAxLvlCb2g9s_aX33e5HHpMhALr to asset
+2020-10-21T21:29:36-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-26_slice-20200407-slice-5_cell-20200407-sample-26_icephys.nwb
+2020-10-21T21:29:37-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:37-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/74/c5/74c5eed78dfb4b2294ef7f534a38b0a8 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-26_slice-20200407-slice-5_cell-20200407-sample-26_icephys.nwb
+2020-10-21T21:29:37-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:37-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/74/c5/74c5eed78dfb4b2294ef7f534a38b0a8?versionId=89q0_sR8xX5TyliHJqSQgGmM6ie0rmdI to asset
+2020-10-21T21:29:37-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-2_slice-20200407-slice-1_cell-20200407-sample-2_icephys.nwb
+2020-10-21T21:29:38-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:38-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/9c/b1/9cb1fdaea52e431f8dfb77fa717544a8 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-2_slice-20200407-slice-1_cell-20200407-sample-2_icephys.nwb
+2020-10-21T21:29:38-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:38-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/9c/b1/9cb1fdaea52e431f8dfb77fa717544a8?versionId=4fNBt1J8k1TYixQS2PS2kbY9vh0HY_ir to asset
+2020-10-21T21:29:38-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-3_slice-20200407-slice-1_cell-20200407-sample-3_icephys.nwb
+2020-10-21T21:29:39-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:39-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f7/5f/f75fa4375ec44cbbb77eaf292a186083 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-3_slice-20200407-slice-1_cell-20200407-sample-3_icephys.nwb
+2020-10-21T21:29:39-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:39-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f7/5f/f75fa4375ec44cbbb77eaf292a186083?versionId=5LW1gku9_VXMP5U4sbAgdP9DK100nwiq to asset
+2020-10-21T21:29:39-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-4_slice-20200407-slice-1_cell-20200407-sample-4_icephys.nwb
+2020-10-21T21:29:40-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:40-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f8/89/f889058bacdf41248a40034a5912a68f -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-4_slice-20200407-slice-1_cell-20200407-sample-4_icephys.nwb
+2020-10-21T21:29:40-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:40-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f8/89/f889058bacdf41248a40034a5912a68f?versionId=RZoICeeVkF7ORVX8A.W3jMZRdmz4nvSs to asset
+2020-10-21T21:29:40-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-5_slice-20200407-slice-1_cell-20200407-sample-5_icephys.nwb
+2020-10-21T21:29:41-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:41-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/61/6b/616b71cf67194fb28a3002c7aae4e471 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-5_slice-20200407-slice-1_cell-20200407-sample-5_icephys.nwb
+2020-10-21T21:29:41-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:41-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/61/6b/616b71cf67194fb28a3002c7aae4e471?versionId=Y1lAIbFkpfZClrUr9Ccgi9YIwe88Niaj to asset
+2020-10-21T21:29:41-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-6_slice-20200407-slice-1_cell-20200407-sample-6_icephys.nwb
+2020-10-21T21:29:41-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:41-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/9e/42/9e4248d6df89443285245b521dbfe611 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-6_slice-20200407-slice-1_cell-20200407-sample-6_icephys.nwb
+2020-10-21T21:29:41-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:42-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/9e/42/9e4248d6df89443285245b521dbfe611?versionId=Rn.WSVDsk12xwEKLoJHEGBDozU9ErcEl to asset
+2020-10-21T21:29:42-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-7_slice-20200407-slice-1_cell-20200407-sample-7_icephys.nwb
+2020-10-21T21:29:42-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:42-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/77/31/7731e8b6f05b4f8facecfa6f231fddef -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-7_slice-20200407-slice-1_cell-20200407-sample-7_icephys.nwb
+2020-10-21T21:29:42-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:43-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/77/31/7731e8b6f05b4f8facecfa6f231fddef?versionId=8xY_9QYkxxBZAhZrvw7HfWcByoMlhUD_ to asset
+2020-10-21T21:29:43-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-8_slice-20200407-slice-1_cell-20200407-sample-8_icephys.nwb
+2020-10-21T21:29:43-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:43-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/d3/d0/d3d06c92aaf14bc49bb625fa0582165e -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-8_slice-20200407-slice-1_cell-20200407-sample-8_icephys.nwb
+2020-10-21T21:29:43-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:44-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/d3/d0/d3d06c92aaf14bc49bb625fa0582165e?versionId=w.LB2yH04OoxcHQyjXMojFxDgwnk1PO. to asset
+2020-10-21T21:29:44-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-9_slice-20200407-slice-1_cell-20200407-sample-9_icephys.nwb
+2020-10-21T21:29:44-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:44-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/67/77/6777374abe974595b65a9e403ed62d8d -> /mnt/backup/dandi/dandisets/000035/sub-mouse-INETJ/sub-mouse-INETJ_ses-20200407-sample-9_slice-20200407-slice-1_cell-20200407-sample-9_icephys.nwb
+2020-10-21T21:29:44-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:44-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/67/77/6777374abe974595b65a9e403ed62d8d?versionId=15m8kp2CnudmTZvgaYm9ecT3KxZfbVqh to asset
+2020-10-21T21:29:45-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-10_slice-20200403-slice-3_cell-20200403-sample-10_icephys.nwb
+2020-10-21T21:29:45-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:45-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/b8/6b/b86b79b0cc134bbb8a895dcd3667e5ff -> /mnt/backup/dandi/dandisets/000035/sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-10_slice-20200403-slice-3_cell-20200403-sample-10_icephys.nwb
+2020-10-21T21:29:45-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:46-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/b8/6b/b86b79b0cc134bbb8a895dcd3667e5ff?versionId=zI0ah0QAcisCvmXdgUuEE6nXKtTlvT04 to asset
+2020-10-21T21:29:46-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-11_slice-20200403-slice-3_cell-20200403-sample-11_icephys.nwb
+2020-10-21T21:29:46-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:46-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/89/30/89307f6a2e754aad9827728085a622e3 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-11_slice-20200403-slice-3_cell-20200403-sample-11_icephys.nwb
+2020-10-21T21:29:46-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:47-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/89/30/89307f6a2e754aad9827728085a622e3?versionId=cjIExW3xLDz5DAWMN7EUTvSeAf03pYyn to asset
+2020-10-21T21:29:47-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-12_slice-20200403-slice-4_cell-20200403-sample-12_icephys.nwb
+2020-10-21T21:29:47-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:47-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c5/29/c529b00f5c71405b892d0b6a7eae531f -> /mnt/backup/dandi/dandisets/000035/sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-12_slice-20200403-slice-4_cell-20200403-sample-12_icephys.nwb
+2020-10-21T21:29:47-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:48-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c5/29/c529b00f5c71405b892d0b6a7eae531f?versionId=Ac_fgVkeK2b_oLwcXI_vBKlkZ98RUbO. to asset
+2020-10-21T21:29:48-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-13_slice-20200403-slice-4_cell-20200403-sample-13_icephys.nwb
+2020-10-21T21:29:48-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:48-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/17/87/1787129a594244bb914270cba714f7bc -> /mnt/backup/dandi/dandisets/000035/sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-13_slice-20200403-slice-4_cell-20200403-sample-13_icephys.nwb
+2020-10-21T21:29:48-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:48-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/17/87/1787129a594244bb914270cba714f7bc?versionId=pf9KBntxyX.5japUuXTQtQR2L7nfnCDQ to asset
+2020-10-21T21:29:49-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-14_slice-20200403-slice-4_cell-20200403-sample-14_icephys.nwb
+2020-10-21T21:29:49-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:49-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/82/a6/82a6a229d7744fb5b9be0d024c17ec8f -> /mnt/backup/dandi/dandisets/000035/sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-14_slice-20200403-slice-4_cell-20200403-sample-14_icephys.nwb
+2020-10-21T21:29:49-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:49-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/82/a6/82a6a229d7744fb5b9be0d024c17ec8f?versionId=d3Qh53m0kN_mdWKC7J3D3m5pHAA4CG8. to asset
+2020-10-21T21:29:50-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-16_slice-20200403-slice-4_cell-20200403-sample-16_icephys.nwb
+2020-10-21T21:29:50-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:50-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/9e/55/9e5583da9b754814bb7ccfe8a1e16ac9 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-16_slice-20200403-slice-4_cell-20200403-sample-16_icephys.nwb
+2020-10-21T21:29:50-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:50-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/9e/55/9e5583da9b754814bb7ccfe8a1e16ac9?versionId=tCNbz47ASLUVzQL5NLRpCvMOkp3nPib7 to asset
+2020-10-21T21:29:50-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-1_slice-20200403-slice-1_cell-20200403-sample-1_icephys.nwb
+2020-10-21T21:29:51-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:51-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ad/b9/adb93bcd74064a44bbb68871dada7c0a -> /mnt/backup/dandi/dandisets/000035/sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-1_slice-20200403-slice-1_cell-20200403-sample-1_icephys.nwb
+2020-10-21T21:29:51-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:51-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ad/b9/adb93bcd74064a44bbb68871dada7c0a?versionId=8gEeaBq3R84v6WEhNygO5t_bXCdlYVgj to asset
+2020-10-21T21:29:51-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-2_slice-20200403-slice-1_cell-20200403-sample-2_icephys.nwb
+2020-10-21T21:29:52-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:52-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/10/cf/10cf194e30a1400caceafa2f9409ab64 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-2_slice-20200403-slice-1_cell-20200403-sample-2_icephys.nwb
+2020-10-21T21:29:52-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:52-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/10/cf/10cf194e30a1400caceafa2f9409ab64?versionId=Dxh3tsTsQ_qtk.pf9o3jdaBbcZ4yxsRm to asset
+2020-10-21T21:29:52-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-3_slice-20200403-slice-1_cell-20200403-sample-3_icephys.nwb
+2020-10-21T21:29:53-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:53-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/49/ef/49ef9bfe5f244b749edc072acfa2cc87 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-3_slice-20200403-slice-1_cell-20200403-sample-3_icephys.nwb
+2020-10-21T21:29:53-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:53-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/49/ef/49ef9bfe5f244b749edc072acfa2cc87?versionId=oYDNCytyJJmlB6D1Pwabk6Up1F7NtoRx to asset
+2020-10-21T21:29:53-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-4_slice-20200403-slice-1_cell-20200403-sample-4_icephys.nwb
+2020-10-21T21:29:54-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:54-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/1c/6b/1c6ba9681b9b48119d10d4937707c25a -> /mnt/backup/dandi/dandisets/000035/sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-4_slice-20200403-slice-1_cell-20200403-sample-4_icephys.nwb
+2020-10-21T21:29:54-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:54-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/1c/6b/1c6ba9681b9b48119d10d4937707c25a?versionId=9i4DufjgLGUmTNdxxw3zbW8njB0spxtr to asset
+2020-10-21T21:29:54-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-5_slice-20200403-slice-2_cell-20200403-sample-5_icephys.nwb
+2020-10-21T21:29:54-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:54-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/72/2d/722dcc0d7c304e299d91f3ff481ffd67 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-5_slice-20200403-slice-2_cell-20200403-sample-5_icephys.nwb
+2020-10-21T21:29:54-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:55-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/72/2d/722dcc0d7c304e299d91f3ff481ffd67?versionId=XidAx.4s9pZpiFKgd2N2x1nYRfSsNzae to asset
+2020-10-21T21:29:55-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-6_slice-20200403-slice-2_cell-20200403-sample-6_icephys.nwb
+2020-10-21T21:29:55-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:55-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/02/e2/02e22c34b04343419397c0ff91b783a8 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-6_slice-20200403-slice-2_cell-20200403-sample-6_icephys.nwb
+2020-10-21T21:29:55-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:56-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/02/e2/02e22c34b04343419397c0ff91b783a8?versionId=.XoYuOoFXrESPek1kkqVpAG4Tbh5GLP_ to asset
+2020-10-21T21:29:56-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-7_slice-20200403-slice-2_cell-20200403-sample-7_icephys.nwb
+2020-10-21T21:29:56-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:56-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ad/5a/ad5a285420a74cbbb7bef4b3eeb1982d -> /mnt/backup/dandi/dandisets/000035/sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-7_slice-20200403-slice-2_cell-20200403-sample-7_icephys.nwb
+2020-10-21T21:29:56-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:56-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ad/5a/ad5a285420a74cbbb7bef4b3eeb1982d?versionId=F4B11qTWL2uEFDMqNtL9yY9yD0tz8AiH to asset
+2020-10-21T21:29:57-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-8_slice-20200403-slice-2_cell-20200403-sample-8_icephys.nwb
+2020-10-21T21:29:57-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:57-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/6e/66/6e66236700e54b868a73d633b84c3cc6 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-8_slice-20200403-slice-2_cell-20200403-sample-8_icephys.nwb
+2020-10-21T21:29:57-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:57-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/6e/66/6e66236700e54b868a73d633b84c3cc6?versionId=fypXU3GHk94uyWUlJXOBJ3v32zr11zVG to asset
+2020-10-21T21:29:58-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-9_slice-20200403-slice-2_cell-20200403-sample-9_icephys.nwb
+2020-10-21T21:29:58-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:58-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/82/3f/823feb31586248e085a20f0848d58f69 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-KIYRP/sub-mouse-KIYRP_ses-20200403-sample-9_slice-20200403-slice-2_cell-20200403-sample-9_icephys.nwb
+2020-10-21T21:29:58-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:58-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/82/3f/823feb31586248e085a20f0848d58f69?versionId=5numPPHBTkK6qnAJxlLQ7W5Kgpsz_Z1P to asset
+2020-10-21T21:29:58-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-10_slice-20200410-slice-1_cell-20200410-sample-10_icephys.nwb
+2020-10-21T21:29:59-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:29:59-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/cf/36/cf36a6f16a004137a472b28fb374ab6d -> /mnt/backup/dandi/dandisets/000035/sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-10_slice-20200410-slice-1_cell-20200410-sample-10_icephys.nwb
+2020-10-21T21:29:59-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:29:59-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/cf/36/cf36a6f16a004137a472b28fb374ab6d?versionId=HvO9kGfC31fUromrl0Lef05zcbquRTU0 to asset
+2020-10-21T21:29:59-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-11_slice-20200410-slice-1_cell-20200410-sample-11_icephys.nwb
+2020-10-21T21:30:00-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:00-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ef/53/ef5385e4acf54d72960f5512ae6b347c -> /mnt/backup/dandi/dandisets/000035/sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-11_slice-20200410-slice-1_cell-20200410-sample-11_icephys.nwb
+2020-10-21T21:30:00-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:00-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ef/53/ef5385e4acf54d72960f5512ae6b347c?versionId=mpvu6aRpTZISoOpvkshDN5WpXGzCXUnP to asset
+2020-10-21T21:30:00-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-13_slice-20200410-slice-1_cell-20200410-sample-13_icephys.nwb
+2020-10-21T21:30:01-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:01-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ca/fb/cafb0f481bbd4e45a6098d1f708574c3 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-13_slice-20200410-slice-1_cell-20200410-sample-13_icephys.nwb
+2020-10-21T21:30:01-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:01-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ca/fb/cafb0f481bbd4e45a6098d1f708574c3?versionId=VJrhCpD_zTxw7CrLrnU3p5.dwNbmMOfv to asset
+2020-10-21T21:30:01-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-14_slice-20200410-slice-1_cell-20200410-sample-14_icephys.nwb
+2020-10-21T21:30:02-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:02-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/5a/c8/5ac8cc3427e24e068379b1f271cca0ab -> /mnt/backup/dandi/dandisets/000035/sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-14_slice-20200410-slice-1_cell-20200410-sample-14_icephys.nwb
+2020-10-21T21:30:02-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:02-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/5a/c8/5ac8cc3427e24e068379b1f271cca0ab?versionId=4Frxlwtvy0Z9J2IW2.Q0T8qB7b..N9z6 to asset
+2020-10-21T21:30:02-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-15_slice-20200410-slice-1_cell-20200410-sample-15_icephys.nwb
+2020-10-21T21:30:02-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:02-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/e0/24/e02411b960e943cfa5757270a53b70fa -> /mnt/backup/dandi/dandisets/000035/sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-15_slice-20200410-slice-1_cell-20200410-sample-15_icephys.nwb
+2020-10-21T21:30:02-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:03-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/e0/24/e02411b960e943cfa5757270a53b70fa?versionId=Sw4Z6KScpcyl8ILyoRYZKuz59j0UlRMp to asset
+2020-10-21T21:30:03-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-17_slice-20200410-slice-2_cell-20200410-sample-17_icephys.nwb
+2020-10-21T21:30:03-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:03-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/4e/38/4e3832963a0647f5b5384f9a7be49d87 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-17_slice-20200410-slice-2_cell-20200410-sample-17_icephys.nwb
+2020-10-21T21:30:03-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:04-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/4e/38/4e3832963a0647f5b5384f9a7be49d87?versionId=EkpjyRZNRajOqRwkgJMDoLxuzxLqlFs0 to asset
+2020-10-21T21:30:04-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-18_slice-20200410-slice-2_cell-20200410-sample-18_icephys.nwb
+2020-10-21T21:30:04-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:04-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/32/cd/32cd77a33a8040d3abcfe76d90859e01 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-18_slice-20200410-slice-2_cell-20200410-sample-18_icephys.nwb
+2020-10-21T21:30:04-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:04-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/32/cd/32cd77a33a8040d3abcfe76d90859e01?versionId=S_GsQ3SM6EX5DaUyylrLxb4MXmJL9.xA to asset
+2020-10-21T21:30:05-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-1_slice-20200410-slice-1_cell-20200410-sample-1_icephys.nwb
+2020-10-21T21:30:05-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:05-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/23/38/23386c7fcc7744d2b9ebf5409e411583 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-1_slice-20200410-slice-1_cell-20200410-sample-1_icephys.nwb
+2020-10-21T21:30:05-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:05-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/23/38/23386c7fcc7744d2b9ebf5409e411583?versionId=q3y6GXPRcK7xlPjWBy2d0NbcUMn79sRR to asset
+2020-10-21T21:30:06-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-20_slice-20200410-slice-2_cell-20200410-sample-20_icephys.nwb
+2020-10-21T21:30:06-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:06-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/e3/a7/e3a73b6db57c484ba6490a45998cd822 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-20_slice-20200410-slice-2_cell-20200410-sample-20_icephys.nwb
+2020-10-21T21:30:06-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:06-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/e3/a7/e3a73b6db57c484ba6490a45998cd822?versionId=RQQcq..DDG0TqlLmZZD311hf3qiqkf5w to asset
+2020-10-21T21:30:07-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-21_slice-20200410-slice-2_cell-20200410-sample-21_icephys.nwb
+2020-10-21T21:30:07-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:07-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/46/dd/46dddbecddb940d299b02b67160b9c60 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-21_slice-20200410-slice-2_cell-20200410-sample-21_icephys.nwb
+2020-10-21T21:30:07-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:07-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/46/dd/46dddbecddb940d299b02b67160b9c60?versionId=0Ew7lMeE2eekz1IQj_JZK.Sr292LPKzb to asset
+2020-10-21T21:30:08-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-22_slice-20200410-slice-2_cell-20200410-sample-22_icephys.nwb
+2020-10-21T21:30:08-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:08-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/42/ae/42aea7c342c14c65bf395cd3aecc1fdd -> /mnt/backup/dandi/dandisets/000035/sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-22_slice-20200410-slice-2_cell-20200410-sample-22_icephys.nwb
+2020-10-21T21:30:08-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:08-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/42/ae/42aea7c342c14c65bf395cd3aecc1fdd?versionId=hzJYPeIDNx.Z4tMhPI73wgniUekxfXBm to asset
+2020-10-21T21:30:09-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-23_slice-20200410-slice-2_cell-20200410-sample-23_icephys.nwb
+2020-10-21T21:30:09-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:09-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/0d/f2/0df20c26be274de6a928b31f63d61e03 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-23_slice-20200410-slice-2_cell-20200410-sample-23_icephys.nwb
+2020-10-21T21:30:09-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:09-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/0d/f2/0df20c26be274de6a928b31f63d61e03?versionId=AcgsFl_9KTg0V2o63OcagxLLDSdz6HKA to asset
+2020-10-21T21:30:09-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-24_slice-20200410-slice-3_cell-20200410-sample-24_icephys.nwb
+2020-10-21T21:30:10-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:10-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/b8/7f/b87fe0e5d26d49b7a3b59068cf571c4d -> /mnt/backup/dandi/dandisets/000035/sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-24_slice-20200410-slice-3_cell-20200410-sample-24_icephys.nwb
+2020-10-21T21:30:10-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:10-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/b8/7f/b87fe0e5d26d49b7a3b59068cf571c4d?versionId=fs.1Asg9538WH9Ig0_3rSbyGF4MTNOKD to asset
+2020-10-21T21:30:10-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-26_slice-20200410-slice-3_cell-20200410-sample-26_icephys.nwb
+2020-10-21T21:30:11-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:11-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/53/33/533327c4a642452093e2cc9a73ab59bf -> /mnt/backup/dandi/dandisets/000035/sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-26_slice-20200410-slice-3_cell-20200410-sample-26_icephys.nwb
+2020-10-21T21:30:11-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:11-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/53/33/533327c4a642452093e2cc9a73ab59bf?versionId=zTrz8egTxnmsIvFEnHJhgFFy_VM3x3pH to asset
+2020-10-21T21:30:11-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-27_slice-20200410-slice-3_cell-20200410-sample-27_icephys.nwb
+2020-10-21T21:30:11-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:11-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/04/f9/04f9fb73a89c4854b432c8a8033fd30b -> /mnt/backup/dandi/dandisets/000035/sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-27_slice-20200410-slice-3_cell-20200410-sample-27_icephys.nwb
+2020-10-21T21:30:11-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:12-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/04/f9/04f9fb73a89c4854b432c8a8033fd30b?versionId=w48YiO5UM64alSLctmN3QVjURXuVh24_ to asset
+2020-10-21T21:30:12-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-28_slice-20200410-slice-3_cell-20200410-sample-28_icephys.nwb
+2020-10-21T21:30:12-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:12-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/37/88/37889f1eae1a4702ad6b3684f1c51d08 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-28_slice-20200410-slice-3_cell-20200410-sample-28_icephys.nwb
+2020-10-21T21:30:12-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:13-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/37/88/37889f1eae1a4702ad6b3684f1c51d08?versionId=IPjAteO.0eGhO9UDYdQcGnYAFp.fxc0S to asset
+2020-10-21T21:30:13-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-29_slice-20200410-slice-3_cell-20200410-sample-29_icephys.nwb
+2020-10-21T21:30:13-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:13-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/74/e4/74e4b61db63342838c8ba1a76cd524b3 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-29_slice-20200410-slice-3_cell-20200410-sample-29_icephys.nwb
+2020-10-21T21:30:13-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:13-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/74/e4/74e4b61db63342838c8ba1a76cd524b3?versionId=lk595JE6aMSmcr9Sw5Qzbrfz8XkHFDRu to asset
+2020-10-21T21:30:14-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-2_slice-20200410-slice-1_cell-20200410-sample-2_icephys.nwb
+2020-10-21T21:30:14-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:14-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ad/c8/adc8e10eb3df4d8c937c511cac249b6d -> /mnt/backup/dandi/dandisets/000035/sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-2_slice-20200410-slice-1_cell-20200410-sample-2_icephys.nwb
+2020-10-21T21:30:14-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:14-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ad/c8/adc8e10eb3df4d8c937c511cac249b6d?versionId=lRbARAq9el_7CZFK8QEAkW7IWW.Qjqj8 to asset
+2020-10-21T21:30:14-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-30_slice-20200410-slice-3_cell-20200410-sample-30_icephys.nwb
+2020-10-21T21:30:15-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:15-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/a5/e5/a5e59e86724e4e478b89e7a7072abc47 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-30_slice-20200410-slice-3_cell-20200410-sample-30_icephys.nwb
+2020-10-21T21:30:15-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:15-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/a5/e5/a5e59e86724e4e478b89e7a7072abc47?versionId=0o5JGGACrIldHEiqS1vL0zJbzDr_WxAn to asset
+2020-10-21T21:30:15-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-4_slice-20200410-slice-1_cell-20200410-sample-4_icephys.nwb
+2020-10-21T21:30:16-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:16-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/5c/2d/5c2d90305ec444c4ae23fc7b36d22e4b -> /mnt/backup/dandi/dandisets/000035/sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-4_slice-20200410-slice-1_cell-20200410-sample-4_icephys.nwb
+2020-10-21T21:30:16-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:16-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/5c/2d/5c2d90305ec444c4ae23fc7b36d22e4b?versionId=oJdFmwQcOimJT1uw7bD2mFrpqSItIjHf to asset
+2020-10-21T21:30:17-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-5_slice-20200410-slice-1_cell-20200410-sample-5_icephys.nwb
+2020-10-21T21:30:17-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:17-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c6/65/c66535e8b97b4e7cb5fa5000b5c9a0e7 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-5_slice-20200410-slice-1_cell-20200410-sample-5_icephys.nwb
+2020-10-21T21:30:17-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:17-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c6/65/c66535e8b97b4e7cb5fa5000b5c9a0e7?versionId=JACpgyltNCWV0s3A1IjVpzqcH8Kge5r5 to asset
+2020-10-21T21:30:17-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-6_slice-20200410-slice-1_cell-20200410-sample-6_icephys.nwb
+2020-10-21T21:30:18-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:18-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/5e/4f/5e4f11c7e75a406c86edae6cd4aa47b3 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-6_slice-20200410-slice-1_cell-20200410-sample-6_icephys.nwb
+2020-10-21T21:30:18-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:18-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/5e/4f/5e4f11c7e75a406c86edae6cd4aa47b3?versionId=mzrQcooCKw2Dxq1WQm0ygng8xtUvRG9T to asset
+2020-10-21T21:30:18-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-7_slice-20200410-slice-1_cell-20200410-sample-7_icephys.nwb
+2020-10-21T21:30:19-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:19-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/0c/34/0c340251b7774507bb7d0c6b6f276756 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-7_slice-20200410-slice-1_cell-20200410-sample-7_icephys.nwb
+2020-10-21T21:30:19-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:20-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/0c/34/0c340251b7774507bb7d0c6b6f276756?versionId=c5bNrC5QUF5EvQX51a7eUnh0BhjOOP_E to asset
+2020-10-21T21:30:20-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-8_slice-20200410-slice-1_cell-20200410-sample-8_icephys.nwb
+2020-10-21T21:30:20-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:20-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/db/34/db34e86ff3d34948b588e37e0a7a05d9 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-MITSU/sub-mouse-MITSU_ses-20200410-sample-8_slice-20200410-slice-1_cell-20200410-sample-8_icephys.nwb
+2020-10-21T21:30:20-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:21-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/db/34/db34e86ff3d34948b588e37e0a7a05d9?versionId=b50QMkrht4EsQzJzXL9cHSATSBcVpnwH to asset
+2020-10-21T21:30:21-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-10_slice-20200409-slice-2_cell-20200409-sample-10_icephys.nwb
+2020-10-21T21:30:21-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:21-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/23/ce/23ce92a74d0c4a819d97f480f683d648 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-10_slice-20200409-slice-2_cell-20200409-sample-10_icephys.nwb
+2020-10-21T21:30:21-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:22-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/23/ce/23ce92a74d0c4a819d97f480f683d648?versionId=krHO9hNXv3ag4Vftt4Ws6qZhP9UUuVla to asset
+2020-10-21T21:30:22-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-11_slice-20200409-slice-2_cell-20200409-sample-11_icephys.nwb
+2020-10-21T21:30:22-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:22-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/19/4a/194a19a91d784841be0d2e964d30b0dd -> /mnt/backup/dandi/dandisets/000035/sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-11_slice-20200409-slice-2_cell-20200409-sample-11_icephys.nwb
+2020-10-21T21:30:22-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:22-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/19/4a/194a19a91d784841be0d2e964d30b0dd?versionId=j4X5ui2tY.k0EIvvix5H76J.v3I2lVwR to asset
+2020-10-21T21:30:23-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-12_slice-20200409-slice-2_cell-20200409-sample-12_icephys.nwb
+2020-10-21T21:30:23-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:23-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ef/41/ef41957e9142497bbc2be0ac7ecb5701 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-12_slice-20200409-slice-2_cell-20200409-sample-12_icephys.nwb
+2020-10-21T21:30:23-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:24-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ef/41/ef41957e9142497bbc2be0ac7ecb5701?versionId=Yiu6pkcvZCRB1XQ_.GXLwORnpqvWlqPE to asset
+2020-10-21T21:30:24-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-13_slice-20200409-slice-2_cell-20200409-sample-13_icephys.nwb
+2020-10-21T21:30:24-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:24-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/79/39/79398369215641bfad0c641f16b7c2c7 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-13_slice-20200409-slice-2_cell-20200409-sample-13_icephys.nwb
+2020-10-21T21:30:24-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:24-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/79/39/79398369215641bfad0c641f16b7c2c7?versionId=MlReU.3pvYi69IusA0txZScEEG6ZWw5s to asset
+2020-10-21T21:30:25-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-14_slice-20200409-slice-2_cell-20200409-sample-14_icephys.nwb
+2020-10-21T21:30:25-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:25-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/5a/b1/5ab144df47b045f5befbd6bc23ad8f1a -> /mnt/backup/dandi/dandisets/000035/sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-14_slice-20200409-slice-2_cell-20200409-sample-14_icephys.nwb
+2020-10-21T21:30:25-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:25-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/5a/b1/5ab144df47b045f5befbd6bc23ad8f1a?versionId=tSDtQ42tBCECNxOoozs_t8HkoWZOYjgV to asset
+2020-10-21T21:30:26-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-15_slice-20200409-slice-3_cell-20200409-sample-15_icephys.nwb
+2020-10-21T21:30:26-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:26-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/5b/e5/5be525659c5d43a3aadbb5537b46bdca -> /mnt/backup/dandi/dandisets/000035/sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-15_slice-20200409-slice-3_cell-20200409-sample-15_icephys.nwb
+2020-10-21T21:30:26-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:26-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/5b/e5/5be525659c5d43a3aadbb5537b46bdca?versionId=caT.UHJgl7_nc2v4D3RDW3ypoxerxk2t to asset
+2020-10-21T21:30:27-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-17_slice-20200409-slice-3_cell-20200409-sample-17_icephys.nwb
+2020-10-21T21:30:27-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:27-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/81/4f/814fa577641a45a4b28ab8e8d34cd9fa -> /mnt/backup/dandi/dandisets/000035/sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-17_slice-20200409-slice-3_cell-20200409-sample-17_icephys.nwb
+2020-10-21T21:30:27-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:27-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/81/4f/814fa577641a45a4b28ab8e8d34cd9fa?versionId=d8l4UWA2vFZYaH0SDSNb2vJWEpBaAdoN to asset
+2020-10-21T21:30:28-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-18_slice-20200409-slice-4_cell-20200409-sample-18_icephys.nwb
+2020-10-21T21:30:28-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:28-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f9/ff/f9fff9b38f784614b7120a3ca627b867 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-18_slice-20200409-slice-4_cell-20200409-sample-18_icephys.nwb
+2020-10-21T21:30:28-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:28-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f9/ff/f9fff9b38f784614b7120a3ca627b867?versionId=jfPMkD18jdON21vbDKu7xOLYtvDXpIEv to asset
+2020-10-21T21:30:28-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-19_slice-20200409-slice-4_cell-20200409-sample-19_icephys.nwb
+2020-10-21T21:30:29-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:29-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/08/f9/08f9aa351065453e81094dee0479fe05 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-19_slice-20200409-slice-4_cell-20200409-sample-19_icephys.nwb
+2020-10-21T21:30:29-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:29-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/08/f9/08f9aa351065453e81094dee0479fe05?versionId=yE9qx0m1_KeujHbP4EB7e8hG4wgcy3mS to asset
+2020-10-21T21:30:29-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-1_slice-20200409-slice-1_cell-20200409-sample-1_icephys.nwb
+2020-10-21T21:30:30-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:30-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/d5/1a/d51af42cda6742228c0dab0b0a592ec1 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-1_slice-20200409-slice-1_cell-20200409-sample-1_icephys.nwb
+2020-10-21T21:30:30-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:30-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/d5/1a/d51af42cda6742228c0dab0b0a592ec1?versionId=ZRWHM.VEEa4cORYIpIe88QngN3X.6M2y to asset
+2020-10-21T21:30:30-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-20_slice-20200409-slice-4_cell-20200409-sample-20_icephys.nwb
+2020-10-21T21:30:31-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:31-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/1c/ed/1ced3ca62461476aad1d5b553dc5d7c9 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-20_slice-20200409-slice-4_cell-20200409-sample-20_icephys.nwb
+2020-10-21T21:30:31-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:31-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/1c/ed/1ced3ca62461476aad1d5b553dc5d7c9?versionId=fax4.ENxrjvWV.2CTH0hLVn__8fQBoue to asset
+2020-10-21T21:30:31-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-2_slice-20200409-slice-1_cell-20200409-sample-2_icephys.nwb
+2020-10-21T21:30:31-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:31-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/e5/40/e540bb439f7b4ebf821782807734fe8a -> /mnt/backup/dandi/dandisets/000035/sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-2_slice-20200409-slice-1_cell-20200409-sample-2_icephys.nwb
+2020-10-21T21:30:31-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:32-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/e5/40/e540bb439f7b4ebf821782807734fe8a?versionId=CTObNBY33J5MXAax0_Zm4FDQnRA7uHE6 to asset
+2020-10-21T21:30:32-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-3_slice-20200409-slice-1_cell-20200409-sample-3_icephys.nwb
+2020-10-21T21:30:32-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:32-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ea/f9/eaf9ee149a1d48d9a019a9be8c07c1e3 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-3_slice-20200409-slice-1_cell-20200409-sample-3_icephys.nwb
+2020-10-21T21:30:32-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:33-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ea/f9/eaf9ee149a1d48d9a019a9be8c07c1e3?versionId=aCkSR.0I3bdXj8gifusetijUW4ekjCzp to asset
+2020-10-21T21:30:33-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-4_slice-20200409-slice-1_cell-20200409-sample-4_icephys.nwb
+2020-10-21T21:30:33-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:33-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/2f/26/2f26f1ab2083439aa77d37d2b0eec8d9 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-4_slice-20200409-slice-1_cell-20200409-sample-4_icephys.nwb
+2020-10-21T21:30:33-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:33-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/2f/26/2f26f1ab2083439aa77d37d2b0eec8d9?versionId=VZjfNxlQRsOj2Ihz6GMBDDthZAKflfza to asset
+2020-10-21T21:30:34-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-5_slice-20200409-slice-1_cell-20200409-sample-5_icephys.nwb
+2020-10-21T21:30:34-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:34-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ec/ee/ecee266f659145e59881f90722dda049 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-5_slice-20200409-slice-1_cell-20200409-sample-5_icephys.nwb
+2020-10-21T21:30:34-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:34-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ec/ee/ecee266f659145e59881f90722dda049?versionId=6_XN0kUlswQPTasFF_dwfdzQbJRCoHD_ to asset
+2020-10-21T21:30:34-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-6_slice-20200409-slice-1_cell-20200409-sample-6_icephys.nwb
+2020-10-21T21:30:35-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:35-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f5/a0/f5a098666df043579aa2fd45bb0c6691 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-6_slice-20200409-slice-1_cell-20200409-sample-6_icephys.nwb
+2020-10-21T21:30:35-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:35-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f5/a0/f5a098666df043579aa2fd45bb0c6691?versionId=yriTmmfB.rZDecBHfo3WoOSgXUsCB3rV to asset
+2020-10-21T21:30:35-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-7_slice-20200409-slice-1_cell-20200409-sample-7_icephys.nwb
+2020-10-21T21:30:35-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:35-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/9f/de/9fdead318a6f4b2196eebe019d16998a -> /mnt/backup/dandi/dandisets/000035/sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-7_slice-20200409-slice-1_cell-20200409-sample-7_icephys.nwb
+2020-10-21T21:30:35-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:36-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/9f/de/9fdead318a6f4b2196eebe019d16998a?versionId=X3kpEgyidinIToOxmM8sqRiTI5REUp40 to asset
+2020-10-21T21:30:36-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-8_slice-20200409-slice-1_cell-20200409-sample-8_icephys.nwb
+2020-10-21T21:30:36-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:36-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/a2/38/a238579e63844d0485513e88b974431d -> /mnt/backup/dandi/dandisets/000035/sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-8_slice-20200409-slice-1_cell-20200409-sample-8_icephys.nwb
+2020-10-21T21:30:36-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:36-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/a2/38/a238579e63844d0485513e88b974431d?versionId=_deWq2pEnrWDXf5ke4pRW3SCyMD7VXos to asset
+2020-10-21T21:30:37-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-9_slice-20200409-slice-1_cell-20200409-sample-9_icephys.nwb
+2020-10-21T21:30:37-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:37-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/90/b3/90b32dd50ce246709dd017add5953215 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-NDKCQ/sub-mouse-NDKCQ_ses-20200409-sample-9_slice-20200409-slice-1_cell-20200409-sample-9_icephys.nwb
+2020-10-21T21:30:37-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:37-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/90/b3/90b32dd50ce246709dd017add5953215?versionId=0gVO6h26QW1xOi1PXBXgNXerJlpo6jk8 to asset
+2020-10-21T21:30:38-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-10_slice-20200414-slice-2_cell-20200414-sample-10_icephys.nwb
+2020-10-21T21:30:38-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:38-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/8d/6d/8d6d90f5259546d19d42230af6f8fc76 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-10_slice-20200414-slice-2_cell-20200414-sample-10_icephys.nwb
+2020-10-21T21:30:38-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:38-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/8d/6d/8d6d90f5259546d19d42230af6f8fc76?versionId=t2NQaotTH.POriOph_15H56EFjlaqQqy to asset
+2020-10-21T21:30:39-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-11_slice-20200414-slice-2_cell-20200414-sample-11_icephys.nwb
+2020-10-21T21:30:39-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:39-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f7/59/f759851b37874475a00c8efce7f350a6 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-11_slice-20200414-slice-2_cell-20200414-sample-11_icephys.nwb
+2020-10-21T21:30:39-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:39-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f7/59/f759851b37874475a00c8efce7f350a6?versionId=C_cxT0UFbAT.lyCE6dmYJ3fyuYwfsA7s to asset
+2020-10-21T21:30:39-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-12_slice-20200414-slice-3_cell-20200414-sample-12_icephys.nwb
+2020-10-21T21:30:40-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:40-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/1b/98/1b98658d1601443ca462c43c440cccb0 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-12_slice-20200414-slice-3_cell-20200414-sample-12_icephys.nwb
+2020-10-21T21:30:40-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:40-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/1b/98/1b98658d1601443ca462c43c440cccb0?versionId=evhHw.W3kEasbQMmIZVKs.Ihgg00N8tY to asset
+2020-10-21T21:30:40-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-13_slice-20200414-slice-3_cell-20200414-sample-13_icephys.nwb
+2020-10-21T21:30:41-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:41-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/dc/b8/dcb8cf28b9084bc28d8ec47efcc4b59d -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-13_slice-20200414-slice-3_cell-20200414-sample-13_icephys.nwb
+2020-10-21T21:30:41-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:41-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/dc/b8/dcb8cf28b9084bc28d8ec47efcc4b59d?versionId=d08f_22EZBXBkrNd_t95IFsaXZpoJlcu to asset
+2020-10-21T21:30:41-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-14_slice-20200414-slice-3_cell-20200414-sample-14_icephys.nwb
+2020-10-21T21:30:42-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:42-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/4a/87/4a87b0cfc3924356a39bf02d389c4133 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-14_slice-20200414-slice-3_cell-20200414-sample-14_icephys.nwb
+2020-10-21T21:30:42-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:42-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/4a/87/4a87b0cfc3924356a39bf02d389c4133?versionId=VYAAQuuVdbAKcKfXYiXYWpNIurZANtrf to asset
+2020-10-21T21:30:42-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-15_slice-20200414-slice-3_cell-20200414-sample-15_icephys.nwb
+2020-10-21T21:30:43-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:43-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/0c/df/0cdf45edac9b4ac08100b51bf12e880b -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-15_slice-20200414-slice-3_cell-20200414-sample-15_icephys.nwb
+2020-10-21T21:30:43-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:43-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/0c/df/0cdf45edac9b4ac08100b51bf12e880b?versionId=Z.3sQpGkKqiRKXXpC1xQk4IDfOUU4Wgj to asset
+2020-10-21T21:30:43-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-16_slice-20200414-slice-3_cell-20200414-sample-16_icephys.nwb
+2020-10-21T21:30:44-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:44-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ca/d4/cad4119ecdd84164ad19dc55ffd2f829 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-16_slice-20200414-slice-3_cell-20200414-sample-16_icephys.nwb
+2020-10-21T21:30:44-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:44-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ca/d4/cad4119ecdd84164ad19dc55ffd2f829?versionId=bjpQt2lZuDPiTDyCODIgEsR5Ci_ye52E to asset
+2020-10-21T21:30:44-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-17_slice-20200414-slice-3_cell-20200414-sample-17_icephys.nwb
+2020-10-21T21:30:45-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:45-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/bc/eb/bceb64fea6294ab9a839dd10e92eaeb4 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-17_slice-20200414-slice-3_cell-20200414-sample-17_icephys.nwb
+2020-10-21T21:30:45-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:45-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/bc/eb/bceb64fea6294ab9a839dd10e92eaeb4?versionId=IKkXTVfYCqGsLPKwYmb5zejTUofCbBv0 to asset
+2020-10-21T21:30:45-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-18_slice-20200414-slice-3_cell-20200414-sample-18_icephys.nwb
+2020-10-21T21:30:45-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:46-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/4c/31/4c31047f6ded440eb63ddb079f44ec13 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-18_slice-20200414-slice-3_cell-20200414-sample-18_icephys.nwb
+2020-10-21T21:30:46-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:46-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/4c/31/4c31047f6ded440eb63ddb079f44ec13?versionId=oIbNL4mDPFK.zOT4OtO9Whiu9r1s9Ogw to asset
+2020-10-21T21:30:46-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-19_slice-20200414-slice-3_cell-20200414-sample-19_icephys.nwb
+2020-10-21T21:30:46-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:46-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/60/7c/607c738987bf445eaa099489d490b401 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-19_slice-20200414-slice-3_cell-20200414-sample-19_icephys.nwb
+2020-10-21T21:30:46-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:47-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/60/7c/607c738987bf445eaa099489d490b401?versionId=W10jH_Pv0QaqcgVrigwn9YmtjuTa.r5E to asset
+2020-10-21T21:30:47-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-1_slice-20200414-slice-1_cell-20200414-sample-1_icephys.nwb
+2020-10-21T21:30:47-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:47-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/df/13/df137325637b45a1ae38f5f5e6e1aa14 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-1_slice-20200414-slice-1_cell-20200414-sample-1_icephys.nwb
+2020-10-21T21:30:47-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:48-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/df/13/df137325637b45a1ae38f5f5e6e1aa14?versionId=rYRivrGxEIZMSqI4tVUlexuOVrGJgCyR to asset
+2020-10-21T21:30:48-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-21_slice-20200414-slice-3_cell-20200414-sample-21_icephys.nwb
+2020-10-21T21:30:48-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:48-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/37/14/3714107c243e4776b60575bd8cb9710a -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-21_slice-20200414-slice-3_cell-20200414-sample-21_icephys.nwb
+2020-10-21T21:30:48-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:49-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/37/14/3714107c243e4776b60575bd8cb9710a?versionId=9.9tZesy6yogBr0mIhifRhocRJsc4hNY to asset
+2020-10-21T21:30:49-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-22_slice-20200414-slice-3_cell-20200414-sample-22_icephys.nwb
+2020-10-21T21:30:49-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:49-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/bc/cf/bccf458022ea4ef69b1b8545bea638a2 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-22_slice-20200414-slice-3_cell-20200414-sample-22_icephys.nwb
+2020-10-21T21:30:49-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:50-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/bc/cf/bccf458022ea4ef69b1b8545bea638a2?versionId=yQmYnGfVwWr_ZD1oJCFk6TiD0j6.M1SY to asset
+2020-10-21T21:30:50-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-23_slice-20200414-slice-3_cell-20200414-sample-23_icephys.nwb
+2020-10-21T21:30:50-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:50-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/4c/5a/4c5a2c19907647558ec78c91de3a20d3 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-23_slice-20200414-slice-3_cell-20200414-sample-23_icephys.nwb
+2020-10-21T21:30:50-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:50-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/4c/5a/4c5a2c19907647558ec78c91de3a20d3?versionId=tTgFrBWMP2KGqMR_XPOavugC8QBnb_d0 to asset
+2020-10-21T21:30:51-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-24_slice-20200414-slice-3_cell-20200414-sample-24_icephys.nwb
+2020-10-21T21:30:51-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:51-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/2a/76/2a7688d9b3ce44428fd989b524108213 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-24_slice-20200414-slice-3_cell-20200414-sample-24_icephys.nwb
+2020-10-21T21:30:51-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:51-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/2a/76/2a7688d9b3ce44428fd989b524108213?versionId=2FGZwEloCqna_s3Ibdk7RRrEAtno1v9X to asset
+2020-10-21T21:30:52-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-25_slice-20200414-slice-3_cell-20200414-sample-25_icephys.nwb
+2020-10-21T21:30:52-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:52-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/8e/05/8e0582aa371e446db693a627a5926fb0 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-25_slice-20200414-slice-3_cell-20200414-sample-25_icephys.nwb
+2020-10-21T21:30:52-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:52-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/8e/05/8e0582aa371e446db693a627a5926fb0?versionId=AhhZeEk6wV5FhldEdrn373Mp.TO0nkBt to asset
+2020-10-21T21:30:52-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-26_slice-20200414-slice-3_cell-20200414-sample-26_icephys.nwb
+2020-10-21T21:30:53-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:53-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/1c/0d/1c0dcdb2b0be49d8b2a1270360d9768d -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-26_slice-20200414-slice-3_cell-20200414-sample-26_icephys.nwb
+2020-10-21T21:30:53-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:53-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/1c/0d/1c0dcdb2b0be49d8b2a1270360d9768d?versionId=_JNHwI_csCo44g7iy1hbGeDYxD5mkzjA to asset
+2020-10-21T21:30:53-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-27_slice-20200414-slice-3_cell-20200414-sample-27_icephys.nwb
+2020-10-21T21:30:54-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:54-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c9/a4/c9a4e0195a97445bbf3e93e9efedc3ee -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-27_slice-20200414-slice-3_cell-20200414-sample-27_icephys.nwb
+2020-10-21T21:30:54-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:54-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c9/a4/c9a4e0195a97445bbf3e93e9efedc3ee?versionId=ajSi.4KOPCqYXmlyY5oAtRtLloQbtITN to asset
+2020-10-21T21:30:54-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-2_slice-20200414-slice-1_cell-20200414-sample-2_icephys.nwb
+2020-10-21T21:30:55-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:55-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/25/df/25df25a8983240439ffad7544538b4d5 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-2_slice-20200414-slice-1_cell-20200414-sample-2_icephys.nwb
+2020-10-21T21:30:55-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:55-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/25/df/25df25a8983240439ffad7544538b4d5?versionId=ZFOUmMF9s1JNm79g9O8__lrnmuQpYaP3 to asset
+2020-10-21T21:30:55-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-3_slice-20200414-slice-1_cell-20200414-sample-3_icephys.nwb
+2020-10-21T21:30:55-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:56-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/af/80/af80dd17aaae42b79254e5a27ab4d383 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-3_slice-20200414-slice-1_cell-20200414-sample-3_icephys.nwb
+2020-10-21T21:30:56-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:56-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/af/80/af80dd17aaae42b79254e5a27ab4d383?versionId=CgsB5cVvxDxOKoci6JFmJNvAJT6EIpQZ to asset
+2020-10-21T21:30:56-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-4_slice-20200414-slice-1_cell-20200414-sample-4_icephys.nwb
+2020-10-21T21:30:56-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:56-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/50/1e/501e76716195407b9398eb343353b0d1 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-4_slice-20200414-slice-1_cell-20200414-sample-4_icephys.nwb
+2020-10-21T21:30:56-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:57-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/50/1e/501e76716195407b9398eb343353b0d1?versionId=8GX5szip2FVYyxMqVEEaLc_CsLU4PC9a to asset
+2020-10-21T21:30:57-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-5_slice-20200414-slice-2_cell-20200414-sample-5_icephys.nwb
+2020-10-21T21:30:57-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:57-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/09/36/09360f14d6d542a99a762fb3c2ecce76 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-5_slice-20200414-slice-2_cell-20200414-sample-5_icephys.nwb
+2020-10-21T21:30:57-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:58-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/09/36/09360f14d6d542a99a762fb3c2ecce76?versionId=jzVfYxN2SfCjdSqG8stMTJH0pVdJTLGl to asset
+2020-10-21T21:30:58-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-6_slice-20200414-slice-2_cell-20200414-sample-6_icephys.nwb
+2020-10-21T21:30:58-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:58-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/13/1e/131e3d775bba423cbc7eac59aed1423c -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-6_slice-20200414-slice-2_cell-20200414-sample-6_icephys.nwb
+2020-10-21T21:30:58-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:58-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/13/1e/131e3d775bba423cbc7eac59aed1423c?versionId=0DEMpS.gOmFBJHXlhtqYzz18PjkZdbiH to asset
+2020-10-21T21:30:59-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-7_slice-20200414-slice-2_cell-20200414-sample-7_icephys.nwb
+2020-10-21T21:30:59-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:30:59-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f1/85/f185f2efa36549a1abac12c6ea488530 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-7_slice-20200414-slice-2_cell-20200414-sample-7_icephys.nwb
+2020-10-21T21:30:59-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:30:59-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f1/85/f185f2efa36549a1abac12c6ea488530?versionId=FxxAOAYqNrp2uX30zTxfBX9KcihLpVOr to asset
+2020-10-21T21:31:00-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-8_slice-20200414-slice-2_cell-20200414-sample-8_icephys.nwb
+2020-10-21T21:31:00-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:00-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ba/77/ba777a500660453b835ba34ff5f8cb35 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-8_slice-20200414-slice-2_cell-20200414-sample-8_icephys.nwb
+2020-10-21T21:31:00-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:00-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ba/77/ba777a500660453b835ba34ff5f8cb35?versionId=MpLF_lhfvyqvu4EIcVELHxnEjZxsx_ou to asset
+2020-10-21T21:31:01-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-9_slice-20200414-slice-2_cell-20200414-sample-9_icephys.nwb
+2020-10-21T21:31:01-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:01-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/a4/33/a43386f936424efb92197284b183f26d -> /mnt/backup/dandi/dandisets/000035/sub-mouse-SCEAC/sub-mouse-SCEAC_ses-20200414-sample-9_slice-20200414-slice-2_cell-20200414-sample-9_icephys.nwb
+2020-10-21T21:31:01-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:01-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/a4/33/a43386f936424efb92197284b183f26d?versionId=osYZ5XgUhqPaRs.6KNOrvIMDLbKf5LQH to asset
+2020-10-21T21:31:01-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-10_slice-20200413-slice-2_cell-20200413-sample-10_icephys.nwb
+2020-10-21T21:31:02-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:02-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/27/01/2701a5a9aa5247d3b04f9d384879a2bf -> /mnt/backup/dandi/dandisets/000035/sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-10_slice-20200413-slice-2_cell-20200413-sample-10_icephys.nwb
+2020-10-21T21:31:02-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:02-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/27/01/2701a5a9aa5247d3b04f9d384879a2bf?versionId=tAZ3goSZcBrG1zz8uc0fPa1r2WrX8HSc to asset
+2020-10-21T21:31:02-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-11_slice-20200413-slice-2_cell-20200413-sample-11_icephys.nwb
+2020-10-21T21:31:03-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:03-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/1d/c6/1dc63f904ed7401ca47c8b2359ac89b9 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-11_slice-20200413-slice-2_cell-20200413-sample-11_icephys.nwb
+2020-10-21T21:31:03-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:03-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/1d/c6/1dc63f904ed7401ca47c8b2359ac89b9?versionId=p9JHyckBYhY0qjhQHu34AgMFL1iNm22y to asset
+2020-10-21T21:31:03-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-12_slice-20200413-slice-2_cell-20200413-sample-12_icephys.nwb
+2020-10-21T21:31:04-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:04-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/6f/d6/6fd6a5388d0d40c98c0afb1a8f6d28f6 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-12_slice-20200413-slice-2_cell-20200413-sample-12_icephys.nwb
+2020-10-21T21:31:04-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:04-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/6f/d6/6fd6a5388d0d40c98c0afb1a8f6d28f6?versionId=pLMlxu2zM2OwOvvu9Wz0t8crc6WB_Ysp to asset
+2020-10-21T21:31:04-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-13_slice-20200413-slice-2_cell-20200413-sample-13_icephys.nwb
+2020-10-21T21:31:05-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:05-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/8c/85/8c8569d531ec4247a72a1f0a42d5ad3d -> /mnt/backup/dandi/dandisets/000035/sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-13_slice-20200413-slice-2_cell-20200413-sample-13_icephys.nwb
+2020-10-21T21:31:05-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:05-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/8c/85/8c8569d531ec4247a72a1f0a42d5ad3d?versionId=vLUFdCGvyuz_PAGjjQgm2evDQwflr6Ge to asset
+2020-10-21T21:31:05-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-14_slice-20200413-slice-2_cell-20200413-sample-14_icephys.nwb
+2020-10-21T21:31:05-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:05-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/59/42/594277eb4415423fa2b53f2c89972cb5 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-14_slice-20200413-slice-2_cell-20200413-sample-14_icephys.nwb
+2020-10-21T21:31:05-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:06-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/59/42/594277eb4415423fa2b53f2c89972cb5?versionId=Ht17GVpI18cPhMo2JT6QTsePL7A72AgD to asset
+2020-10-21T21:31:06-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-15_slice-20200413-slice-2_cell-20200413-sample-15_icephys.nwb
+2020-10-21T21:31:06-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:06-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/86/6d/866dce7208fa4da58d753cc1f5b1f275 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-15_slice-20200413-slice-2_cell-20200413-sample-15_icephys.nwb
+2020-10-21T21:31:06-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:06-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/86/6d/866dce7208fa4da58d753cc1f5b1f275?versionId=Bp7m7Le.KlUoWPMZ6fqifpNN5K2x_eRm to asset
+2020-10-21T21:31:07-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-16_slice-20200413-slice-2_cell-20200413-sample-16_icephys.nwb
+2020-10-21T21:31:07-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:07-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/61/16/611669a7724c475f93ad8860f13ec231 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-16_slice-20200413-slice-2_cell-20200413-sample-16_icephys.nwb
+2020-10-21T21:31:07-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:07-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/61/16/611669a7724c475f93ad8860f13ec231?versionId=Mw0fQaZAheI.CsLBCnoIen05DDx5WXrv to asset
+2020-10-21T21:31:08-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-17_slice-20200413-slice-2_cell-20200413-sample-17_icephys.nwb
+2020-10-21T21:31:08-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:08-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/69/0a/690a8c7bdd284901a9687359a682fed9 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-17_slice-20200413-slice-2_cell-20200413-sample-17_icephys.nwb
+2020-10-21T21:31:08-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:08-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/69/0a/690a8c7bdd284901a9687359a682fed9?versionId=IWRSgsOBLmE66in3yRZNdA0uVDvf.qNe to asset
+2020-10-21T21:31:09-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-18_slice-20200413-slice-2_cell-20200413-sample-18_icephys.nwb
+2020-10-21T21:31:09-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:09-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/23/6e/236e33415631411f91e9fd8eb408ee3d -> /mnt/backup/dandi/dandisets/000035/sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-18_slice-20200413-slice-2_cell-20200413-sample-18_icephys.nwb
+2020-10-21T21:31:09-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:09-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/23/6e/236e33415631411f91e9fd8eb408ee3d?versionId=GF_YGWB2kM1GQP_iW6dCWdnT4mu7h5JI to asset
+2020-10-21T21:31:10-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-19_slice-20200413-slice-2_cell-20200413-sample-19_icephys.nwb
+2020-10-21T21:31:10-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:10-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/65/e8/65e87e5d3e3d4757b05bbc355948d623 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-19_slice-20200413-slice-2_cell-20200413-sample-19_icephys.nwb
+2020-10-21T21:31:10-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:10-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/65/e8/65e87e5d3e3d4757b05bbc355948d623?versionId=r43kExPuN56V09ZNboFFkiHZVZWK7imm to asset
+2020-10-21T21:31:11-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-1_slice-20200413-slice-1_cell-20200413-sample-1_icephys.nwb
+2020-10-21T21:31:11-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:11-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c6/74/c674e8d4525542b98132db56e1a56be3 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-1_slice-20200413-slice-1_cell-20200413-sample-1_icephys.nwb
+2020-10-21T21:31:11-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:11-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c6/74/c674e8d4525542b98132db56e1a56be3?versionId=Gwdksf_n8LJ_s0UavX0Z.D1cwwXY68vS to asset
+2020-10-21T21:31:11-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-20_slice-20200413-slice-3_cell-20200413-sample-20_icephys.nwb
+2020-10-21T21:31:12-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:12-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/42/cf/42cf7167b2b6489a85de64adbf036a1c -> /mnt/backup/dandi/dandisets/000035/sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-20_slice-20200413-slice-3_cell-20200413-sample-20_icephys.nwb
+2020-10-21T21:31:12-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:12-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/42/cf/42cf7167b2b6489a85de64adbf036a1c?versionId=xkUplMYCi1S41JfuEIe5X933xTG1BaMS to asset
+2020-10-21T21:31:12-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-21_slice-20200413-slice-3_cell-20200413-sample-21_icephys.nwb
+2020-10-21T21:31:13-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:13-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/62/1f/621f087dbb0b406da8b616adbb99f61e -> /mnt/backup/dandi/dandisets/000035/sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-21_slice-20200413-slice-3_cell-20200413-sample-21_icephys.nwb
+2020-10-21T21:31:13-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:13-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/62/1f/621f087dbb0b406da8b616adbb99f61e?versionId=5hCNZ6yIuAzduL6yoxkU4v9aaNSKQ3hF to asset
+2020-10-21T21:31:13-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-22_slice-20200413-slice-3_cell-20200413-sample-22_icephys.nwb
+2020-10-21T21:31:14-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:14-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/3b/f4/3bf431112eeb49d9af8a82d98dd85a9a -> /mnt/backup/dandi/dandisets/000035/sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-22_slice-20200413-slice-3_cell-20200413-sample-22_icephys.nwb
+2020-10-21T21:31:14-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:14-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/3b/f4/3bf431112eeb49d9af8a82d98dd85a9a?versionId=PP50wzzyQbE4bQXkpqhPTi31lPYHAkC7 to asset
+2020-10-21T21:31:14-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-23_slice-20200413-slice-3_cell-20200413-sample-23_icephys.nwb
+2020-10-21T21:31:14-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:14-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/cd/98/cd98bac07b3442d1918a174b07f828f5 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-23_slice-20200413-slice-3_cell-20200413-sample-23_icephys.nwb
+2020-10-21T21:31:14-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:15-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/cd/98/cd98bac07b3442d1918a174b07f828f5?versionId=xWs.GP5zvLiqCTFCCPVFc2nl7groIgdb to asset
+2020-10-21T21:31:15-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-2_slice-20200413-slice-1_cell-20200413-sample-2_icephys.nwb
+2020-10-21T21:31:15-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:15-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/74/22/7422d43c4afd473b8f3eed478553f594 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-2_slice-20200413-slice-1_cell-20200413-sample-2_icephys.nwb
+2020-10-21T21:31:15-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:16-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/74/22/7422d43c4afd473b8f3eed478553f594?versionId=0ohSd1O1ruqzYw5pRRvGlLcLPbHWjgmc to asset
+2020-10-21T21:31:16-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-3_slice-20200413-slice-1_cell-20200413-sample-3_icephys.nwb
+2020-10-21T21:31:16-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:16-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/86/6a/866a5327623542e88d706173264d5973 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-3_slice-20200413-slice-1_cell-20200413-sample-3_icephys.nwb
+2020-10-21T21:31:16-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:17-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/86/6a/866a5327623542e88d706173264d5973?versionId=WnDdFEQhGJ7YYOgbdDmnrIbScXxcTR6v to asset
+2020-10-21T21:31:17-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-4_slice-20200413-slice-1_cell-20200413-sample-4_icephys.nwb
+2020-10-21T21:31:17-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:17-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c7/e0/c7e082d82ab64fa88f099bab7e0faa91 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-4_slice-20200413-slice-1_cell-20200413-sample-4_icephys.nwb
+2020-10-21T21:31:17-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:17-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c7/e0/c7e082d82ab64fa88f099bab7e0faa91?versionId=H1ZK5whZmPeu5UL_r.Y9TZTOrWeW_.dr to asset
+2020-10-21T21:31:18-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-5_slice-20200413-slice-1_cell-20200413-sample-5_icephys.nwb
+2020-10-21T21:31:18-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:18-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/26/6e/266e64af3c954bca87f4862559c98652 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-5_slice-20200413-slice-1_cell-20200413-sample-5_icephys.nwb
+2020-10-21T21:31:18-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:18-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/26/6e/266e64af3c954bca87f4862559c98652?versionId=FO7Gy9B6cu16aasBsBYKlvt8W.txC3RN to asset
+2020-10-21T21:31:19-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-6_slice-20200413-slice-1_cell-20200413-sample-6_icephys.nwb
+2020-10-21T21:31:19-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:19-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/e9/fe/e9feb8e57583419fbfb6baeb4d4446a3 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-6_slice-20200413-slice-1_cell-20200413-sample-6_icephys.nwb
+2020-10-21T21:31:19-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:19-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/e9/fe/e9feb8e57583419fbfb6baeb4d4446a3?versionId=.PBeLaNOBEe8Z6qA27EQUhAn7zq9zswR to asset
+2020-10-21T21:31:20-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-7_slice-20200413-slice-2_cell-20200413-sample-7_icephys.nwb
+2020-10-21T21:31:20-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:20-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c2/90/c290bf6b6ab545d6b01f745cb603d133 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-7_slice-20200413-slice-2_cell-20200413-sample-7_icephys.nwb
+2020-10-21T21:31:20-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:20-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c2/90/c290bf6b6ab545d6b01f745cb603d133?versionId=bOZsE56vAeGe5nPq16UujimPuKbQCPBI to asset
+2020-10-21T21:31:20-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-8_slice-20200413-slice-2_cell-20200413-sample-8_icephys.nwb
+2020-10-21T21:31:21-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:21-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/8d/62/8d621075ca6e4cd4a455fbcf5c350510 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-8_slice-20200413-slice-2_cell-20200413-sample-8_icephys.nwb
+2020-10-21T21:31:21-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:21-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/8d/62/8d621075ca6e4cd4a455fbcf5c350510?versionId=j0t4cFng50SRaZvNXvqB09JLoLPkUIWt to asset
+2020-10-21T21:31:21-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-9_slice-20200413-slice-2_cell-20200413-sample-9_icephys.nwb
+2020-10-21T21:31:22-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:22-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/32/95/329589ceb77b4299ad0cebd18799b43b -> /mnt/backup/dandi/dandisets/000035/sub-mouse-UEQOU/sub-mouse-UEQOU_ses-20200413-sample-9_slice-20200413-slice-2_cell-20200413-sample-9_icephys.nwb
+2020-10-21T21:31:22-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:22-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/32/95/329589ceb77b4299ad0cebd18799b43b?versionId=93YFbwRAjGdTOf5aB00c0qsvHVXiMBZe to asset
+2020-10-21T21:31:22-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-10_slice-20200406-slice-3_cell-20200406-sample-10_icephys.nwb
+2020-10-21T21:31:23-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:23-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/e8/3d/e83da71277944612a41b4f748373742a -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-10_slice-20200406-slice-3_cell-20200406-sample-10_icephys.nwb
+2020-10-21T21:31:23-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:23-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/e8/3d/e83da71277944612a41b4f748373742a?versionId=nW8xQ7Po9KGcr8CeLR8EP5CZm8_scRv7 to asset
+2020-10-21T21:31:23-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-11_slice-20200406-slice-3_cell-20200406-sample-11_icephys.nwb
+2020-10-21T21:31:23-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:23-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/96/6b/966b25ef977743cea0943b854931194d -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-11_slice-20200406-slice-3_cell-20200406-sample-11_icephys.nwb
+2020-10-21T21:31:23-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:24-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/96/6b/966b25ef977743cea0943b854931194d?versionId=ruD82XKI._I1H00aRwayoovSkUIDxHiw to asset
+2020-10-21T21:31:24-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-12_slice-20200406-slice-4_cell-20200406-sample-12_icephys.nwb
+2020-10-21T21:31:24-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:24-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/93/71/9371999a56774e84a9beeb316bb5d69c -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-12_slice-20200406-slice-4_cell-20200406-sample-12_icephys.nwb
+2020-10-21T21:31:24-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:25-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/93/71/9371999a56774e84a9beeb316bb5d69c?versionId=ehfA5kl9_dXlygoaB1s_RqW_N2bt1u0J to asset
+2020-10-21T21:31:25-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-13_slice-20200406-slice-4_cell-20200406-sample-13_icephys.nwb
+2020-10-21T21:31:25-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:25-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/8f/a9/8fa933e758db4a35acaf433129e22f6b -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-13_slice-20200406-slice-4_cell-20200406-sample-13_icephys.nwb
+2020-10-21T21:31:25-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:25-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/8f/a9/8fa933e758db4a35acaf433129e22f6b?versionId=SeVSNYICpMAX2qA1vGbBoHqBrmxsO.o_ to asset
+2020-10-21T21:31:26-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-15_slice-20200406-slice-4_cell-20200406-sample-15_icephys.nwb
+2020-10-21T21:31:26-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:26-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ba/cd/bacd9cf42d704960a271cd696d7194cd -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-15_slice-20200406-slice-4_cell-20200406-sample-15_icephys.nwb
+2020-10-21T21:31:26-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:26-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ba/cd/bacd9cf42d704960a271cd696d7194cd?versionId=8eAXBf.IwE24RfAkJiBKQHezAh2KepcU to asset
+2020-10-21T21:31:27-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-16_slice-20200406-slice-4_cell-20200406-sample-16_icephys.nwb
+2020-10-21T21:31:27-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:27-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ac/c4/acc46436799b43d4b32fd152bc3b3b84 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-16_slice-20200406-slice-4_cell-20200406-sample-16_icephys.nwb
+2020-10-21T21:31:27-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:27-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ac/c4/acc46436799b43d4b32fd152bc3b3b84?versionId=wk2cRqEtEM0s4YOg1ROMGdv76666JRVC to asset
+2020-10-21T21:31:28-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-17_slice-20200406-slice-4_cell-20200406-sample-17_icephys.nwb
+2020-10-21T21:31:28-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:28-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/e2/90/e290fa0918ce434eb4c0b7985cd021f7 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-17_slice-20200406-slice-4_cell-20200406-sample-17_icephys.nwb
+2020-10-21T21:31:28-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:28-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/e2/90/e290fa0918ce434eb4c0b7985cd021f7?versionId=updLCfcklpiUyk.1t2OMUNjx2ge2mNP0 to asset
+2020-10-21T21:31:28-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-19_slice-20200406-slice-4_cell-20200406-sample-19_icephys.nwb
+2020-10-21T21:31:29-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:29-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/e0/08/e008d98ee1374eea9635c09cf8774840 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-19_slice-20200406-slice-4_cell-20200406-sample-19_icephys.nwb
+2020-10-21T21:31:29-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:29-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/e0/08/e008d98ee1374eea9635c09cf8774840?versionId=xsE.QZhrpFByX9Bq0PrWZ0veRumLThbe to asset
+2020-10-21T21:31:29-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-1_slice-20200406-slice-1_cell-20200406-sample-1_icephys.nwb
+2020-10-21T21:31:30-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:30-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/e0/7c/e07cf44cf39c4e81a33497c54ff169e0 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-1_slice-20200406-slice-1_cell-20200406-sample-1_icephys.nwb
+2020-10-21T21:31:30-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:30-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/e0/7c/e07cf44cf39c4e81a33497c54ff169e0?versionId=H64rHOssfYbPIgifm8EqsXfCNUP8FDff to asset
+2020-10-21T21:31:30-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-20_slice-20200406-slice-4_cell-20200406-sample-20_icephys.nwb
+2020-10-21T21:31:30-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:31-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/3d/a5/3da54419a77b4b57a6c3f1919f6bfe11 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-20_slice-20200406-slice-4_cell-20200406-sample-20_icephys.nwb
+2020-10-21T21:31:31-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:31-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/3d/a5/3da54419a77b4b57a6c3f1919f6bfe11?versionId=6Yx_XttL0loc2bwb7JrhyPIy3OaObr9H to asset
+2020-10-21T21:31:31-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-21_slice-20200406-slice-4_cell-20200406-sample-21_icephys.nwb
+2020-10-21T21:31:31-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:31-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/2c/ad/2cad8f8b0cb94b09b32c19eea01a1360 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-21_slice-20200406-slice-4_cell-20200406-sample-21_icephys.nwb
+2020-10-21T21:31:31-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:32-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/2c/ad/2cad8f8b0cb94b09b32c19eea01a1360?versionId=ZDleqPiLYLkyCfMmamEmaC8qV8zhUqsx to asset
+2020-10-21T21:31:32-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-22_slice-20200406-slice-4_cell-20200406-sample-22_icephys.nwb
+2020-10-21T21:31:32-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:32-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/05/44/0544694e4c2343f3b2ce012ee9c2fca6 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-22_slice-20200406-slice-4_cell-20200406-sample-22_icephys.nwb
+2020-10-21T21:31:32-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:33-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/05/44/0544694e4c2343f3b2ce012ee9c2fca6?versionId=oSpbpnxa0VV78B5IvqecaNkiaqnzDRN5 to asset
+2020-10-21T21:31:33-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-23_slice-20200406-slice-4_cell-20200406-sample-23_icephys.nwb
+2020-10-21T21:31:33-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:33-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/89/ff/89ffce2f3ca4497d8a3ca4c216fc2dcc -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-23_slice-20200406-slice-4_cell-20200406-sample-23_icephys.nwb
+2020-10-21T21:31:33-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:33-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/89/ff/89ffce2f3ca4497d8a3ca4c216fc2dcc?versionId=gfq70u1hLmOwz1A5LdFbb4hOwE.9I3Kw to asset
+2020-10-21T21:31:34-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-24_slice-20200406-slice-4_cell-20200406-sample-24_icephys.nwb
+2020-10-21T21:31:34-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:34-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/a1/ff/a1ffc7ecba44400c9f6941baf4782b5f -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-24_slice-20200406-slice-4_cell-20200406-sample-24_icephys.nwb
+2020-10-21T21:31:34-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:34-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/a1/ff/a1ffc7ecba44400c9f6941baf4782b5f?versionId=4v9ITAxvJayHhAwDQXPxmsesBi8a2mr3 to asset
+2020-10-21T21:31:35-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-25_slice-20200406-slice-5_cell-20200406-sample-25_icephys.nwb
+2020-10-21T21:31:35-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:35-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/b6/e6/b6e60a1138384e01807a1811989acad6 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-25_slice-20200406-slice-5_cell-20200406-sample-25_icephys.nwb
+2020-10-21T21:31:35-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:35-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/b6/e6/b6e60a1138384e01807a1811989acad6?versionId=gAupVlb9L6MQGAtACOoEErkBttt423fJ to asset
+2020-10-21T21:31:36-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-27_slice-20200406-slice-5_cell-20200406-sample-27_icephys.nwb
+2020-10-21T21:31:36-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:36-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/1c/9b/1c9bbac90ac24f3fa698621ec836749e -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-27_slice-20200406-slice-5_cell-20200406-sample-27_icephys.nwb
+2020-10-21T21:31:36-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:36-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/1c/9b/1c9bbac90ac24f3fa698621ec836749e?versionId=GA3KvsrVqC2XcyVcw_BUhcePAPsDF92g to asset
+2020-10-21T21:31:36-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-28_slice-20200406-slice-6_cell-20200406-sample-28_icephys.nwb
+2020-10-21T21:31:37-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:37-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f1/92/f1924148e93a4c8bb34c6192f3b486c8 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-28_slice-20200406-slice-6_cell-20200406-sample-28_icephys.nwb
+2020-10-21T21:31:37-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:37-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f1/92/f1924148e93a4c8bb34c6192f3b486c8?versionId=sDW7Xt_FO8YZ7kYKS3BicQo_b.2_6oRT to asset
+2020-10-21T21:31:37-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-29_slice-20200406-slice-6_cell-20200406-sample-29_icephys.nwb
+2020-10-21T21:31:38-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:38-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/52/7a/527a2d1f19a942bf85643e5ba011bfb4 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-29_slice-20200406-slice-6_cell-20200406-sample-29_icephys.nwb
+2020-10-21T21:31:38-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:38-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/52/7a/527a2d1f19a942bf85643e5ba011bfb4?versionId=.ZkBJK776OkK43j9zg22jEIAQPIUKdwu to asset
+2020-10-21T21:31:38-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-2_slice-20200406-slice-1_cell-20200406-sample-2_icephys.nwb
+2020-10-21T21:31:38-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:39-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/cc/ae/ccae55ef533546d08146574d71b09666 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-2_slice-20200406-slice-1_cell-20200406-sample-2_icephys.nwb
+2020-10-21T21:31:39-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:39-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/cc/ae/ccae55ef533546d08146574d71b09666?versionId=5MTcCSp4XAcCKcXZmG3p4dZogoeFGLIr to asset
+2020-10-21T21:31:39-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-30_slice-20200406-slice-6_cell-20200406-sample-30_icephys.nwb
+2020-10-21T21:31:39-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:39-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/7e/aa/7eaad00c94cd46ceb23152073e8a317a -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-30_slice-20200406-slice-6_cell-20200406-sample-30_icephys.nwb
+2020-10-21T21:31:39-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:40-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/7e/aa/7eaad00c94cd46ceb23152073e8a317a?versionId=4PaEzjtJGsyZ0XpN7IGZTWuBvZuD..SL to asset
+2020-10-21T21:31:40-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-31_slice-20200406-slice-6_cell-20200406-sample-31_icephys.nwb
+2020-10-21T21:31:40-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:40-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/dd/60/dd609416387646feaaee42c7580ddb06 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-31_slice-20200406-slice-6_cell-20200406-sample-31_icephys.nwb
+2020-10-21T21:31:40-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:41-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/dd/60/dd609416387646feaaee42c7580ddb06?versionId=7ZMB9N64eeioXJbr629SUcffG72ENgpo to asset
+2020-10-21T21:31:41-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-32_slice-20200406-slice-6_cell-20200406-sample-32_icephys.nwb
+2020-10-21T21:31:41-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:41-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/a6/3e/a63e10446bc84fc89202513ab14380b5 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-32_slice-20200406-slice-6_cell-20200406-sample-32_icephys.nwb
+2020-10-21T21:31:41-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:41-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/a6/3e/a63e10446bc84fc89202513ab14380b5?versionId=BoQYOCxDA_ob8_sBcB9ce0HySG15MtHc to asset
+2020-10-21T21:31:42-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-3_slice-20200406-slice-1_cell-20200406-sample-3_icephys.nwb
+2020-10-21T21:31:42-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:42-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/98/ad/98ade3d6e9574de3af792eb5883bba77 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-3_slice-20200406-slice-1_cell-20200406-sample-3_icephys.nwb
+2020-10-21T21:31:42-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:42-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/98/ad/98ade3d6e9574de3af792eb5883bba77?versionId=R.0WOHVBFrNx2T_2wPtEIMHVgl2WjTdN to asset
+2020-10-21T21:31:43-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-4_slice-20200406-slice-2_cell-20200406-sample-4_icephys.nwb
+2020-10-21T21:31:43-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:43-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/75/5a/755a153a9a2f48c4b8643b14e329ba90 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-4_slice-20200406-slice-2_cell-20200406-sample-4_icephys.nwb
+2020-10-21T21:31:43-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:43-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/75/5a/755a153a9a2f48c4b8643b14e329ba90?versionId=Qt4pcSmZeVXC6_lxQ0d_t6AyqgIj7nhB to asset
+2020-10-21T21:31:44-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-5_slice-20200406-slice-2_cell-20200406-sample-5_icephys.nwb
+2020-10-21T21:31:44-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:44-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/3e/6c/3e6c6c7a202348b1a0a8d9d7bb2bc217 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-5_slice-20200406-slice-2_cell-20200406-sample-5_icephys.nwb
+2020-10-21T21:31:44-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:44-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/3e/6c/3e6c6c7a202348b1a0a8d9d7bb2bc217?versionId=mZvTpxMa3uLU0OuDNNerBH4rPaXSNGW7 to asset
+2020-10-21T21:31:44-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-6_slice-20200406-slice-2_cell-20200406-sample-6_icephys.nwb
+2020-10-21T21:31:45-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:45-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/7c/dd/7cdd603085a24449977f4c4f56d6ef21 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-6_slice-20200406-slice-2_cell-20200406-sample-6_icephys.nwb
+2020-10-21T21:31:45-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:45-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/7c/dd/7cdd603085a24449977f4c4f56d6ef21?versionId=46hVW8zDPOzgkJrTwJOcKgzsLrzgAJOF to asset
+2020-10-21T21:31:45-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-7_slice-20200406-slice-2_cell-20200406-sample-7_icephys.nwb
+2020-10-21T21:31:45-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:45-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/df/70/df70334520164d8bb6529fce6d53909b -> /mnt/backup/dandi/dandisets/000035/sub-mouse-WPOGH/sub-mouse-WPOGH_ses-20200406-sample-7_slice-20200406-slice-2_cell-20200406-sample-7_icephys.nwb
+2020-10-21T21:31:45-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:46-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/df/70/df70334520164d8bb6529fce6d53909b?versionId=CGYwHYUMvd49eKuhYY4_Bs555YFv.dkm to asset
+2020-10-21T21:31:46-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-11_slice-20200408-slice-3_cell-20200408-sample-11_icephys.nwb
+2020-10-21T21:31:46-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:46-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/b5/4a/b54ac96f781f4e7fb6bdcf3eef46da94 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-11_slice-20200408-slice-3_cell-20200408-sample-11_icephys.nwb
+2020-10-21T21:31:46-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:47-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/b5/4a/b54ac96f781f4e7fb6bdcf3eef46da94?versionId=o_urbNEfPMZF6W1HQo.hVOHVC5igzY9g to asset
+2020-10-21T21:31:47-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-12_slice-20200408-slice-3_cell-20200408-sample-12_icephys.nwb
+2020-10-21T21:31:47-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:47-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f1/15/f1158f46dc7d4e3eb5b14146533e6b4b -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-12_slice-20200408-slice-3_cell-20200408-sample-12_icephys.nwb
+2020-10-21T21:31:47-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:47-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f1/15/f1158f46dc7d4e3eb5b14146533e6b4b?versionId=2fpc05kyKyeogWlTbcBnqEGnikC8_H91 to asset
+2020-10-21T21:31:48-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-13_slice-20200408-slice-3_cell-20200408-sample-13_icephys.nwb
+2020-10-21T21:31:48-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:48-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/29/24/292479b9b5d7403a999b41d2caee8740 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-13_slice-20200408-slice-3_cell-20200408-sample-13_icephys.nwb
+2020-10-21T21:31:48-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:48-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/29/24/292479b9b5d7403a999b41d2caee8740?versionId=Q.qT31NFyhUQE6178ExCs5iv8ltfMjCp to asset
+2020-10-21T21:31:49-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-14_slice-20200408-slice-3_cell-20200408-sample-14_icephys.nwb
+2020-10-21T21:31:49-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:49-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/97/52/9752a81cc04641f49056e35e9ea1e8d6 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-14_slice-20200408-slice-3_cell-20200408-sample-14_icephys.nwb
+2020-10-21T21:31:49-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:49-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/97/52/9752a81cc04641f49056e35e9ea1e8d6?versionId=gNGBTamWAUZpTmPR9oDoGQw1V7SvXCVt to asset
+2020-10-21T21:31:50-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-15_slice-20200408-slice-3_cell-20200408-sample-15_icephys.nwb
+2020-10-21T21:31:50-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:50-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/54/ae/54ae785b454641209dc10a6b66c48ff8 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-15_slice-20200408-slice-3_cell-20200408-sample-15_icephys.nwb
+2020-10-21T21:31:50-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:50-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/54/ae/54ae785b454641209dc10a6b66c48ff8?versionId=X69ghpljXaOJCW8gyosmJwdr.TGOo7z6 to asset
+2020-10-21T21:31:50-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-16_slice-20200408-slice-3_cell-20200408-sample-16_icephys.nwb
+2020-10-21T21:31:51-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:51-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/66/ab/66abe26f63474c12ad41113ef2b5cccb -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-16_slice-20200408-slice-3_cell-20200408-sample-16_icephys.nwb
+2020-10-21T21:31:51-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:51-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/66/ab/66abe26f63474c12ad41113ef2b5cccb?versionId=ftbc_7cPqCShLcGwQ33g8OgEnUGa9NRJ to asset
+2020-10-21T21:31:51-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-17_slice-20200408-slice-3_cell-20200408-sample-17_icephys.nwb
+2020-10-21T21:31:52-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:52-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/61/f0/61f0382483d1473e964074285c75c09e -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-17_slice-20200408-slice-3_cell-20200408-sample-17_icephys.nwb
+2020-10-21T21:31:52-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:52-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/61/f0/61f0382483d1473e964074285c75c09e?versionId=qP5rJNPpIZqnZmLw53BR32gVTLYytVBI to asset
+2020-10-21T21:31:52-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-18_slice-20200408-slice-4_cell-20200408-sample-18_icephys.nwb
+2020-10-21T21:31:52-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:52-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/14/01/1401e24890354af4b10e8686e98966b9 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-18_slice-20200408-slice-4_cell-20200408-sample-18_icephys.nwb
+2020-10-21T21:31:53-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:53-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/14/01/1401e24890354af4b10e8686e98966b9?versionId=DQ6YRCL5EObNpeKNIz445BORgH.O4Ulz to asset
+2020-10-21T21:31:53-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-19_slice-20200408-slice-4_cell-20200408-sample-19_icephys.nwb
+2020-10-21T21:31:53-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:53-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ee/c8/eec8ec943759465c84bd786a800359a2 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-19_slice-20200408-slice-4_cell-20200408-sample-19_icephys.nwb
+2020-10-21T21:31:53-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:54-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ee/c8/eec8ec943759465c84bd786a800359a2?versionId=plPlbkexMM0IJWg6.2KGyxjPP12ZIKGb to asset
+2020-10-21T21:31:54-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-1_slice-20200408-slice-1_cell-20200408-sample-1_icephys.nwb
+2020-10-21T21:31:54-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:54-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/47/89/4789c273bea14b09ace882f01efc1303 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-1_slice-20200408-slice-1_cell-20200408-sample-1_icephys.nwb
+2020-10-21T21:31:54-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:55-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/47/89/4789c273bea14b09ace882f01efc1303?versionId=ChqIKG_fDv.mn0frl1lWBNmFtcjtOupZ to asset
+2020-10-21T21:31:55-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-20_slice-20200408-slice-4_cell-20200408-sample-20_icephys.nwb
+2020-10-21T21:31:55-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:55-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/9e/e2/9ee2b1cd68b5450d8f283546eed941ea -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-20_slice-20200408-slice-4_cell-20200408-sample-20_icephys.nwb
+2020-10-21T21:31:55-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:56-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/9e/e2/9ee2b1cd68b5450d8f283546eed941ea?versionId=wSMeb.IA49xkyP8dTLwgEz6ZL64YcZfg to asset
+2020-10-21T21:31:56-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-21_slice-20200408-slice-4_cell-20200408-sample-21_icephys.nwb
+2020-10-21T21:31:56-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:56-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/1e/ed/1eed6ef9b2f9470eaae18a758fea2089 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-21_slice-20200408-slice-4_cell-20200408-sample-21_icephys.nwb
+2020-10-21T21:31:56-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:56-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/1e/ed/1eed6ef9b2f9470eaae18a758fea2089?versionId=vwFizrY6NzgvhM7nWb6qHLwGc8X4Y1iz to asset
+2020-10-21T21:31:57-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-23_slice-20200408-slice-4_cell-20200408-sample-23_icephys.nwb
+2020-10-21T21:31:57-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:57-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/9e/f8/9ef8f3506ee3421abc8481c844773b9f -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-23_slice-20200408-slice-4_cell-20200408-sample-23_icephys.nwb
+2020-10-21T21:31:57-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:57-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/9e/f8/9ef8f3506ee3421abc8481c844773b9f?versionId=gZwxWaD83Ju3GrHAaGMgEMEr2QRpEONP to asset
+2020-10-21T21:31:58-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-24_slice-20200408-slice-4_cell-20200408-sample-24_icephys.nwb
+2020-10-21T21:31:58-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:58-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/9c/a7/9ca7d770647240a4baa907ba8c7a0344 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-24_slice-20200408-slice-4_cell-20200408-sample-24_icephys.nwb
+2020-10-21T21:31:58-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:58-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/9c/a7/9ca7d770647240a4baa907ba8c7a0344?versionId=eA3NSg7JANMLkPiHgZHPIjZ096N7HX_R to asset
+2020-10-21T21:31:59-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-25_slice-20200408-slice-4_cell-20200408-sample-25_icephys.nwb
+2020-10-21T21:31:59-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:31:59-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/33/70/33702d0652804532ab8a3e3c706eb1c7 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-25_slice-20200408-slice-4_cell-20200408-sample-25_icephys.nwb
+2020-10-21T21:31:59-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:31:59-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/33/70/33702d0652804532ab8a3e3c706eb1c7?versionId=XtSy0UkWJdTlD0xMP9u9HAGEcew9TUnS to asset
+2020-10-21T21:31:59-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-26_slice-20200408-slice-4_cell-20200408-sample-26_icephys.nwb
+2020-10-21T21:32:00-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:32:00-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/38/01/38018a7c3ca843e9981f760806610582 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-26_slice-20200408-slice-4_cell-20200408-sample-26_icephys.nwb
+2020-10-21T21:32:00-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:32:00-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/38/01/38018a7c3ca843e9981f760806610582?versionId=.ZO0jcej52rhGMg9_W6zuPtuK_erIXhn to asset
+2020-10-21T21:32:00-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-27_slice-20200408-slice-4_cell-20200408-sample-27_icephys.nwb
+2020-10-21T21:32:01-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:32:01-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/bf/39/bf39852f0b9741e39d4a5d4b17d42a82 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-27_slice-20200408-slice-4_cell-20200408-sample-27_icephys.nwb
+2020-10-21T21:32:01-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:32:01-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/bf/39/bf39852f0b9741e39d4a5d4b17d42a82?versionId=0T6qzATHjTm7K_zfwFHlqNaRKs3QGwvo to asset
+2020-10-21T21:32:01-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-28_slice-20200408-slice-4_cell-20200408-sample-28_icephys.nwb
+2020-10-21T21:32:01-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:32:01-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ba/e5/bae519daccce499587a9b3a77a8ab5b3 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-28_slice-20200408-slice-4_cell-20200408-sample-28_icephys.nwb
+2020-10-21T21:32:01-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:32:02-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ba/e5/bae519daccce499587a9b3a77a8ab5b3?versionId=n9NoREs5hJzZW1iRmxdtLHlnltUE6eWj to asset
+2020-10-21T21:32:02-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-2_slice-20200408-slice-1_cell-20200408-sample-2_icephys.nwb
+2020-10-21T21:32:02-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:32:02-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/93/6e/936e98aa8ac4457289b7cdfb276e7f03 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-2_slice-20200408-slice-1_cell-20200408-sample-2_icephys.nwb
+2020-10-21T21:32:02-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:32:03-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/93/6e/936e98aa8ac4457289b7cdfb276e7f03?versionId=qYVgrTAqLhR3cfRzJ3ABDI2sbX3BaaZ4 to asset
+2020-10-21T21:32:03-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-3_slice-20200408-slice-1_cell-20200408-sample-3_icephys.nwb
+2020-10-21T21:32:03-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:32:03-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/b3/9c/b39cbbe22ef04930b9c4da57356e1e26 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-3_slice-20200408-slice-1_cell-20200408-sample-3_icephys.nwb
+2020-10-21T21:32:03-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:32:04-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/b3/9c/b39cbbe22ef04930b9c4da57356e1e26?versionId=8PcM_GUqBEsYp9J..zBHv9LI6nXp2rZY to asset
+2020-10-21T21:32:04-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-4_slice-20200408-slice-2_cell-20200408-sample-4_icephys.nwb
+2020-10-21T21:32:04-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:32:04-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f2/5d/f25d4242df2c45bf988705c8af7282f3 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-4_slice-20200408-slice-2_cell-20200408-sample-4_icephys.nwb
+2020-10-21T21:32:04-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:32:04-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f2/5d/f25d4242df2c45bf988705c8af7282f3?versionId=M1FVC2u1Qmiy.wmNL4IBlCZvmiic3Rbf to asset
+2020-10-21T21:32:05-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-5_slice-20200408-slice-2_cell-20200408-sample-5_icephys.nwb
+2020-10-21T21:32:05-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:32:05-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/60/dd/60dd4364cfa84a8e98c7be8c21e06164 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-5_slice-20200408-slice-2_cell-20200408-sample-5_icephys.nwb
+2020-10-21T21:32:05-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:32:05-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/60/dd/60dd4364cfa84a8e98c7be8c21e06164?versionId=TwFIejQnofoYLJ6V6arAhVlj7WYciFwq to asset
+2020-10-21T21:32:06-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-6_slice-20200408-slice-2_cell-20200408-sample-6_icephys.nwb
+2020-10-21T21:32:06-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:32:06-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/84/4d/844de2880c1a4c5bb99dc5d31f901360 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-6_slice-20200408-slice-2_cell-20200408-sample-6_icephys.nwb
+2020-10-21T21:32:06-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:32:06-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/84/4d/844de2880c1a4c5bb99dc5d31f901360?versionId=SVjmti9R2fhJhiXljZX7S14Z.paE_2y4 to asset
+2020-10-21T21:32:06-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-7_slice-20200408-slice-2_cell-20200408-sample-7_icephys.nwb
+2020-10-21T21:32:07-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:32:07-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/36/c1/36c1c1b16b614ccbbbb46cb58d4945cc -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-7_slice-20200408-slice-2_cell-20200408-sample-7_icephys.nwb
+2020-10-21T21:32:07-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:32:07-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/36/c1/36c1c1b16b614ccbbbb46cb58d4945cc?versionId=ciga7iIKrnGVaZA6aA3c6sgUwtZV.jyp to asset
+2020-10-21T21:32:07-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-8_slice-20200408-slice-3_cell-20200408-sample-8_icephys.nwb
+2020-10-21T21:32:08-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:32:08-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/9b/9b/9b9bbd33775b45e2b3228c368e183dd6 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-8_slice-20200408-slice-3_cell-20200408-sample-8_icephys.nwb
+2020-10-21T21:32:08-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:32:08-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/9b/9b/9b9bbd33775b45e2b3228c368e183dd6?versionId=tucPl7p1N6dBChrgawSWLgXHc6P_EwOw to asset
+2020-10-21T21:32:08-0400 [INFO    ] backups2datalad.py Syncing asset /sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-9_slice-20200408-slice-3_cell-20200408-sample-9_icephys.nwb
+2020-10-21T21:32:09-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T21:32:09-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/72/6a/726ac36062b147cc9467d2d0e9de5185 -> /mnt/backup/dandi/dandisets/000035/sub-mouse-ZUDOB/sub-mouse-ZUDOB_ses-20200408-sample-9_slice-20200408-slice-3_cell-20200408-sample-9_icephys.nwb
+2020-10-21T21:32:09-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T21:32:09-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/72/6a/726ac36062b147cc9467d2d0e9de5185?versionId=Qev39GNjJVJN.KQzTHUQ1ypmW2xeA.a4 to asset
+2020-10-21T21:32:09-0400 [INFO    ] backups2datalad.py Commiting changes
