@@ -81,6 +81,8 @@ name: Temperature-controlled intracellular ephys in mouse motor cortex
 number_of_cells: 185
 number_of_slices: 30
 number_of_subjects: 8
+organism:
+- species: Mus musculus
 sex:
 - F
 - M
