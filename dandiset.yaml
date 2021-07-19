@@ -10,6 +10,20 @@ access:
     schemaKey: ContactPoint
   schemaKey: AccessRequirements
   status: dandi:OpenAccess
+acknowledgement: We thank B. Dichter for help with converting electrophysiologial
+  recordings into the NWB format. This work was supported by the National Institute
+  of Mental Health and the National Eye Institute of the National Institutes of Health
+  (NIH) under Award Numbers U19MH114830 (A.S.T., R.S., P.B., H.Z.), R01MH109556 (A.S.T.),
+  EY002520 (A.S.T.), T32EY07001, the Deutsche Forschungsgemeinschaft through a Heisenberg
+  Professorship (BE5601/4-1; P.B.), the Cluster of Excellence “Machine Learning —
+  New Perspectives for Science” (EXC 2064, project number 390727645; P.B.), the Collaborative
+  Research Center 1233 “Robust Vision” (project number 276693517; P.B.), the German
+  Federal Ministry of Education and Research (FKZ 01GQ1601 and 01IS18039A; P.B.),
+  and the Intelligence Advanced Research Projects Activity (IARPA) via Department
+  of Interior/Interior Business Center (DoI/IBC), contract number D16PC00003 (A.S.T.).
+  The views and conclusions contained herein are those of the authors and should not
+  be interpreted as necessarily representing the official policies or endorsements,
+  either expressed or implied, of NIH, IARPA, DoI/IBC, or the US Government.
 assetsSummary:
   approach: []
   dataStandard:
@@ -29,8 +43,8 @@ citation: Scala, Federico; Kobak, Dmitry; Bernabucci, Matteo; Bernaerts, Yves; C
   Cathryn Rene; Castro, Jesus Ramon; Hartmanis, Leonard; Jiang, Xiaolong; Laturnus,
   Sophie; Miranda, Elanine; Mulherkar, Shalaka; Tan, Zheng Huan; Yao, Zizhen; Last,
   First; Zeng, Hongkui; Sandberg, Rickard; Berens, Philipp; Tolias, Andreas Savas
-  (2021) Temperature-controlled intracellular ephys in mouse motor cortex (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000035/draft
+  (2021) Temperature-controlled intracellular Patch-seq recordings in mouse motor
+  cortex (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000035/draft
 contributor:
 - affiliation: []
   includeInCitation: true
@@ -155,17 +169,38 @@ contributor:
   roleName:
   - dcite:Author
   schemaKey: Person
-description: This dataset contains rectangular stimulation of cell under temperature-controlled
-  conditions (34 ℃)
+description: ' We used Patch-seq to combine patch-clamp recording, biocytin staining,
+  and single-cell RNA sequencing of over 1300 neurons in adult mouse motor cortex,
+  providing a comprehensive morpho-electric annotation of almost all transcriptomically
+  defined neural cell types. This dataset contains rectangular stimulation of cells
+  under temperature-controlled conditions (34 ℃). See Dandiset #8 for the main dataset,
+  recorded under the room temperature.'
 ethicsApproval: []
 id: DANDI:000035/draft
 identifier: DANDI:000035
-keywords: []
-license: []
-manifestLocation: []
-name: Temperature-controlled intracellular ephys in mouse motor cortex
-protocol: []
-relatedResource: []
+keywords:
+- Patch-seq
+- mouse
+- cortex
+- motor cortex
+license:
+- spdx:CC-BY-4.0
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000035/versions/draft/assets/
+name: Temperature-controlled intracellular Patch-seq recordings in mouse motor cortex
+protocol:
+- Patch-seq
+relatedResource:
+- identifier: 'doi.org/10.1038/s41586-020-2907-3 '
+  relation: dcite:IsDescribedBy
+  schemaKey: Resource
+  url: 'https://www.nature.com/articles/s41586-020-2907-3 '
+- relation: dcite:IsDescribedBy
+  schemaKey: Resource
+  url: https://github.com/berenslab/mini-atlas
+- relation: dcite:IsContinuedBy
+  schemaKey: Resource
+  url: https://assets.nemoarchive.org/dat-kq04hua
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.4.4
