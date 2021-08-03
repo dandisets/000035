@@ -189,7 +189,7 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000035/versions/draft/assets/
 name: Temperature-controlled intracellular Patch-seq recordings in mouse motor cortex
 protocol:
-- Patch-seq
+- https://doi.org/10.1038/nprot.2017.120
 relatedResource:
 - identifier: 'doi.org/10.1038/s41586-020-2907-3 '
   relation: dcite:IsDescribedBy
