@@ -3,8 +3,9 @@
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.0/context.json
 about:
-- name: UBERON:0001384
-  schemaKey: Anatomy
+- identifier: UBERON:0001384
+  name: primary motor cortex
+  schemaKey: Disorder
 access:
 - contactPoint:
     schemaKey: ContactPoint
@@ -31,13 +32,16 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique: []
-  numberOfBytes: 1654998761
+  numberOfBytes: 1656166654
   numberOfCells: 185
   numberOfFiles: 185
   numberOfSamples: 30
   numberOfSubjects: 8
   schemaKey: AssetsSummary
-  species: []
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
+    name: House mouse
+    schemaKey: SpeciesType
   variableMeasured: []
 citation: Scala, Federico; Kobak, Dmitry; Bernabucci, Matteo; Bernaerts, Yves; Cadwell,
   Cathryn Rene; Castro, Jesus Ramon; Hartmanis, Leonard; Jiang, Xiaolong; Laturnus,
@@ -52,7 +56,6 @@ contributor:
   roleName:
   - dcite:Author
   - dcite:DataCollector
-  - dcite:ContactPerson
   schemaKey: Person
 - affiliation: []
   identifier: 0000-0002-5639-7209
@@ -168,7 +171,89 @@ contributor:
   name: Tolias, Andreas Savas
   roleName:
   - dcite:Author
+  - dcite:ContactPerson
   schemaKey: Person
+- awardNumber: U19MH114830
+  contactPoint: []
+  identifier: https://ror.org/04xeg9z08
+  includeInCitation: false
+  name: National Institute of Mental Health
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: https://www.nimh.nih.gov/index.shtml
+- awardNumber: R01MH109556
+  contactPoint: []
+  identifier: https://ror.org/04xeg9z08
+  includeInCitation: false
+  name: National Institute of Mental Health
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: https://www.nimh.nih.gov/index.shtml
+- awardNumber: EY002520
+  contactPoint: []
+  identifier: https://ror.org/03wkg3b53
+  includeInCitation: false
+  name: National Eye Institute
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: https://nei.nih.gov/
+- awardNumber: T32EY07001
+  contactPoint: []
+  identifier: https://ror.org/03wkg3b53
+  includeInCitation: false
+  name: National Eye Institute
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: https://nei.nih.gov/
+- awardNumber: BE5601/4-1
+  contactPoint: []
+  identifier: https://ror.org/018mejw64
+  includeInCitation: false
+  name: Deutsche Forschungsgemeinschaft
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: http://www.dfg.de/en/
+- awardNumber: EXC 2064, project number 390727645
+  contactPoint: []
+  includeInCitation: false
+  name: Cluster of Excellence “Machine Learning — New Perspectives for Science”
+  roleName: []
+  schemaKey: Organization
+- awardNumber: project number 276693517
+  contactPoint: []
+  includeInCitation: false
+  name: Collaborative Research Center 1233 “Robust Vision”
+  roleName: []
+  schemaKey: Organization
+- awardNumber: FKZ 01GQ1601
+  contactPoint: []
+  identifier: https://ror.org/04pz7b180
+  includeInCitation: false
+  name: German Federal Ministry of Education and Research
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: https://www.bmbf.de/bmbf/en/home/home_node.html
+- awardNumber: 01IS18039A
+  contactPoint: []
+  identifier: https://ror.org/04pz7b180
+  includeInCitation: false
+  name: German Federal Ministry of Education and Research
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: https://www.bmbf.de/bmbf/en/home/home_node.html
+- awardNumber: D16PC00003
+  contactPoint: []
+  includeInCitation: false
+  name: Intelligence Advanced Research Projects Activity
+  roleName: []
+  schemaKey: Organization
 dateCreated: '2020-08-07T16:00:21.992000+00:00'
 description: ' We used Patch-seq to combine patch-clamp recording, biocytin staining,
   and single-cell RNA sequencing of over 1300 neurons in adult mouse motor cortex,
@@ -192,10 +277,10 @@ name: Temperature-controlled intracellular Patch-seq recordings in mouse motor c
 protocol:
 - https://doi.org/10.1038/nprot.2017.120
 relatedResource:
-- identifier: 'doi.org/10.1038/s41586-020-2907-3 '
+- identifier: doi:10.1038/s41586-020-2907-3
   relation: dcite:IsDescribedBy
   schemaKey: Resource
-  url: 'https://www.nature.com/articles/s41586-020-2907-3 '
+  url: https://www.nature.com/articles/s41586-020-2907-3
 - relation: dcite:IsDescribedBy
   schemaKey: Resource
   url: https://github.com/berenslab/mini-atlas
