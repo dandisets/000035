@@ -48,7 +48,7 @@ citation: Scala, Federico; Kobak, Dmitry; Bernabucci, Matteo; Bernaerts, Yves; C
   Sophie; Miranda, Elanine; Mulherkar, Shalaka; Tan, Zheng Huan; Yao, Zizhen; Last,
   First; Zeng, Hongkui; Sandberg, Rickard; Berens, Philipp; Tolias, Andreas Savas
   (2021) Temperature-controlled intracellular Patch-seq recordings in mouse motor
-  cortex (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000035/draft
+  cortex (Version 0.211014.0808) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000035/0.211014.0808
 contributor:
 - affiliation: []
   includeInCitation: true
@@ -255,14 +255,16 @@ contributor:
   roleName: []
   schemaKey: Organization
 dateCreated: '2020-08-07T16:00:21.992000+00:00'
+datePublished: '2021-10-14T08:08:31.055984+00:00'
 description: ' We used Patch-seq to combine patch-clamp recording, biocytin staining,
   and single-cell RNA sequencing of over 1300 neurons in adult mouse motor cortex,
   providing a comprehensive morpho-electric annotation of almost all transcriptomically
   defined neural cell types. This dataset contains rectangular stimulation of cells
   under temperature-controlled conditions (34 ℃). See Dandiset #8 for the main dataset,
   recorded under the room temperature.'
+doi: 10.48324/dandi.000035/0.211014.0808
 ethicsApproval: []
-id: DANDI:000035/draft
+id: DANDI:000035/0.211014.0808
 identifier: DANDI:000035
 keywords:
 - Patch-seq
@@ -272,10 +274,22 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000035/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000035/0.211014.0808/assets.yaml
 name: Temperature-controlled intracellular Patch-seq recordings in mouse motor cortex
 protocol:
 - https://doi.org/10.1038/nprot.2017.120
+publishedBy:
+  endDate: '2021-10-14T08:08:31.055984+00:00'
+  id: urn:uuid:3f2a257e-4673-4e8f-b514-30fdd602af1f
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2021-10-14T08:08:31.055984+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:0a3c93cd-505f-4da0-81c6-1b9bdf30c0da
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: doi:10.1038/s41586-020-2907-3
   relation: dcite:IsDescribedBy
@@ -291,8 +305,8 @@ repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000035/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000035/0.211014.0808
+version: 0.211014.0808
 wasGeneratedBy:
 - description: Brain Initiative Cell Census Network (BICCN)
   name: BICCN
