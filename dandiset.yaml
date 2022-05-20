@@ -26,12 +26,16 @@ acknowledgement: We thank B. Dichter for help with converting electrophysiologia
   be interpreted as necessarily representing the official policies or endorsements,
   either expressed or implied, of NIH, IARPA, DoI/IBC, or the US Government.
 assetsSummary:
-  approach: []
+  approach:
+  - name: electrophysiological approach
+    schemaKey: ApproachType
   dataStandard:
   - identifier: RRID:SCR_015242
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
-  measurementTechnique: []
+  measurementTechnique:
+  - name: current clamp technique
+    schemaKey: MeasurementTechniqueType
   numberOfBytes: 1656166654
   numberOfCells: 185
   numberOfFiles: 185
@@ -42,7 +46,12 @@ assetsSummary:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
     name: House mouse
     schemaKey: SpeciesType
-  variableMeasured: []
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
+    name: Mus musculus - House mouse
+    schemaKey: SpeciesType
+  variableMeasured:
+  - CurrentClampSeries
+  - CurrentClampStimulusSeries
 citation: Scala, Federico; Kobak, Dmitry; Bernabucci, Matteo; Bernaerts, Yves; Cadwell,
   Cathryn Rene; Castro, Jesus Ramon; Hartmanis, Leonard; Jiang, Xiaolong; Laturnus,
   Sophie; Miranda, Elanine; Mulherkar, Shalaka; Tan, Zheng Huan; Yao, Zizhen; Last,
@@ -287,7 +296,7 @@ relatedResource:
 - relation: dcite:IsContinuedBy
   schemaKey: Resource
   url: https://assets.nemoarchive.org/dat-kq04hua
-repository: https://dandiarchive.org/
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
