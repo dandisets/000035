@@ -56,7 +56,7 @@ citation: Scala, Federico; Kobak, Dmitry; Bernabucci, Matteo; Bernaerts, Yves; C
   Cathryn Rene; Castro, Jesus Ramon; Hartmanis, Leonard; Jiang, Xiaolong; Laturnus,
   Sophie; Miranda, Elanine; Mulherkar, Shalaka; Tan, Zheng Huan; Yao, Zizhen; Last,
   First; Zeng, Hongkui; Sandberg, Rickard; Berens, Philipp; Tolias, Andreas Savas
-  (2022) Temperature-controlled intracellular Patch-seq recordings in mouse motor
+  (2024) Temperature-controlled intracellular Patch-seq recordings in mouse motor
   cortex (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000035/draft
 contributor:
 - affiliation: []
@@ -287,13 +287,21 @@ protocol:
 - https://doi.org/10.1038/nprot.2017.120
 relatedResource:
 - identifier: doi:10.1038/s41586-020-2907-3
+  name: Phenotypic variation of transcriptomic cell types in mouse motor cortex
   relation: dcite:IsDescribedBy
+  repository: NAture
+  resourceType: dcite:JournalArticle
   schemaKey: Resource
   url: https://www.nature.com/articles/s41586-020-2907-3
-- relation: dcite:IsDescribedBy
+- name: mini-atlas
+  relation: dcite:IsDescribedBy
+  repository: GitHub
+  resourceType: dcite:Software
   schemaKey: Resource
   url: https://github.com/berenslab/mini-atlas
-- relation: dcite:IsContinuedBy
+- name: Phenotypic variation of transcriptomic cell types in mouse motor cortex
+  relation: dcite:IsContinuedBy
+  resourceType: dcite:Dataset
   schemaKey: Resource
   url: https://assets.nemoarchive.org/dat-kq04hua
 repository: https://dandiarchive.org
