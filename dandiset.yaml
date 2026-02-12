@@ -191,7 +191,10 @@ contributor:
   roleName:
   - dcite:Author
   schemaKey: Person
-- affiliation: []
+- affiliation:
+  - identifier: https://ror.org/00dcv1019
+    name: Allen Institute for Brain Science
+    schemaKey: Affiliation
   identifier: 0000-0002-0326-5878
   includeInCitation: true
   name: Zeng, Hongkui
@@ -222,6 +225,7 @@ contributor:
   - identifier: https://ror.org/03a1kwz48
     name: University of Tübingen
     schemaKey: Affiliation
+  email: atolias@bcm.edu
   identifier: 0000-0002-4305-6376
   includeInCitation: true
   name: Tolias, Andreas Savas
@@ -278,13 +282,15 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
   url: http://www.dfg.de/en/
-- awardNumber: EXC 2064, project number 390727645
+- awardNumber: EXC 2064, 390727645
   contactPoint: []
+  identifier: https://ror.org/03a1kwz48
   includeInCitation: false
   name: Cluster of Excellence “Machine Learning — New Perspectives for Science”
-  roleName: []
+  roleName:
+  - dcite:Funder
   schemaKey: Organization
-- awardNumber: project number 276693517
+- awardNumber: '276693517'
   contactPoint: []
   identifier: https://ror.org/03a1kwz48
   includeInCitation: false
@@ -294,7 +300,7 @@ contributor:
   schemaKey: Organization
 - awardNumber: FKZ 01GQ1601
   contactPoint: []
-  identifier: https://ror.org/03a1kwz48
+  identifier: https://ror.org/04pz7b180
   includeInCitation: false
   name: German Federal Ministry of Education and Research
   roleName:
@@ -312,14 +318,12 @@ contributor:
   url: https://www.bmbf.de/bmbf/en/home/home_node.html
 - awardNumber: D16PC00003
   contactPoint: []
+  identifier: https://ror.org/01v3fsc55
   includeInCitation: false
   name: Intelligence Advanced Research Projects Activity
-  roleName: []
-  schemaKey: Organization
-- name: Intelligence Advanced Research Projects Activity
   roleName:
   - dcite:Funder
-  schemaKey: Person
+  schemaKey: Organization
 dateCreated: '2020-08-07T16:00:21.992000+00:00'
 description: ' We used Patch-seq to combine patch-clamp recording, biocytin staining,
   and single-cell RNA sequencing of over 1300 neurons in adult mouse motor cortex,
